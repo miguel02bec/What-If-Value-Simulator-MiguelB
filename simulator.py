@@ -12,7 +12,7 @@ import plotly.express as px
 
 # ── Configuración ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="SoccerSolver — Market Value Simulator",
+    page_title="Market Value Simulator",
     page_icon="⚽",
     layout="wide",
 )
