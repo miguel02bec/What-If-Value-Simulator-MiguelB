@@ -1,0 +1,1489 @@
+name,tm_id,team,position,nationality,market_value_eur
+Rui Silva,234811,Real Betis,Portero,Sporting de Lisboa,7000000.0
+Fran Vieites,551182,Real Betis,Portero,Leicester City,2000000.0
+Adrián San Miguel,71271,Real Betis,Portero,Real Betis Balompié,500000.0
+Guilherme Fernandes,567504,Real Betis,Portero,Real Valladolid CF,150000.0
+Germán García,1061277,Real Betis,Portero,Betis Deportivo Balompié,50000.0
+Manu González,1225038,Real Betis,Portero,Betis Deportivo Balompié,
+Natan,735568,Real Betis,Defensa central,Real Betis Balompié,9000000.0
+Diego Llorente,246291,Real Betis,Defensa central,Real Betis Balompié,6000000.0
+Nobel Mendy,1034853,Real Betis,Defensa central,Rayo Vallecano,4000000.0
+Marc Bartra,99922,Real Betis,Defensa central,Real Betis Balompié,1000000.0
+Sergio Arribas,722351,Real Betis,Defensa central,Cádiz CF,400000.0
+Rudy Kohon,917101,Real Betis,Defensa central,KV Kortrijk,400000.0
+Romain Perraud,318523,Real Betis,Lateral izquierdo,LOSC Lille,5000000.0
+Ricardo Rodríguez,86784,Real Betis,Lateral izquierdo,Real Betis Balompié,2000000.0
+Lucas Alcázar,709998,Real Betis,Lateral izquierdo,CD Castellón,300000.0
+Xavi Pleguezuelo,971774,Real Betis,Lateral izquierdo,RCD Espanyol B,100000.0
+Ángel Ortiz,933908,Real Betis,Lateral derecho,Real Betis Balompié,2500000.0
+Héctor Bellerín,191217,Real Betis,Lateral derecho,Real Betis Balompié,2000000.0
+Youssouf Sabaly,135492,Real Betis,Lateral derecho,Al-Duhail SC,1800000.0
+Pablo Busto,1054909,Real Betis,Lateral derecho,Betis Deportivo Balompié,300000.0
+Marc Roca,336869,Real Betis,Pivote,Real Betis Balompié,6000000.0
+William Carvalho,100131,Real Betis,Pivote,CF Pachuca,1500000.0
+Carlos Guirao,1054429,Real Betis,Pivote,CD Leganés,300000.0
+Johnny Cardoso,689505,Real Betis,Mediocentro,Atlético de Madrid,25000000.0
+Sergi Altimira,466801,Real Betis,Mediocentro,Real Betis Balompié,15000000.0
+Pablo Fornals,357885,Real Betis,Mediocentro,Real Betis Balompié,6000000.0
+Mateo Flores,1061283,Real Betis,Mediocentro,FC Arouca,1000000.0
+Giovani Lo Celso,348795,Real Betis,Mediocentro ofensivo,Real Betis Balompié,15000000.0
+Nabil Fekir,203496,Real Betis,Mediocentro ofensivo,Al-Jazira Club,7000000.0
+Isco,85288,Real Betis,Mediocentro ofensivo,Real Betis Balompié,6000000.0
+Dani Pérez,895331,Real Betis,Mediocentro ofensivo,Betis Deportivo Balompié,500000.0
+Carlos Reina,1061281,Real Betis,Mediocentro ofensivo,Betis Deportivo Balompié,300000.0
+Assane Diao,1061282,Real Betis,Extremo izquierdo,Como 1907,30000000.0
+Jesús Rodríguez,1190411,Real Betis,Extremo izquierdo,Como 1907,30000000.0
+Abde Ezzalzouli,724520,Real Betis,Extremo izquierdo,Real Betis Balompié,12000000.0
+Juanmi,126737,Real Betis,Extremo izquierdo,Getafe CF,2000000.0
+Antony,602105,Real Betis,Extremo derecho,Real Betis Balompié,35000000.0
+Pablo García,961087,Real Betis,Extremo derecho,Real Betis Balompié,5000000.0
+Aitor Ruibal,378139,Real Betis,Extremo derecho,Real Betis Balompié,3500000.0
+Rodri Sánchez,630995,Real Betis,Extremo derecho,Al-Arabi SC,2700000.0
+Iker Losada,632741,Real Betis,Mediapunta,Levante UD,1500000.0
+Vitor Roque,943837,Real Betis,Delantero centro,SE Palmeiras,20000000.0
+Cucho Hernández,459463,Real Betis,Delantero centro,Real Betis Balompié,18000000.0
+Chimy Ávila,167721,Real Betis,Delantero centro,Real Betis Balompié,2000000.0
+Cédric Bakambu,127048,Real Betis,Delantero centro,Real Betis Balompié,1500000.0
+Marcos Fernández,961948,Real Betis,Delantero centro,AD Ceuta FC,400000.0
+Sergio Herrera,248738,Osasuna,Portero,CA Osasuna,3000000.0
+Aitor Fernández,118997,Osasuna,Portero,CA Osasuna,700000.0
+Pablo Valencia,634117,Osasuna,Portero,CD Eldense,200000.0
+Dimitrios Stamatakis,890817,Osasuna,Portero,CA Osasuna Promesas,200000.0
+Rafa Fernández,929864,Osasuna,Portero,CA Osasuna Promesas,25000.0
+Enzo Boyomo,541555,Osasuna,Defensa central,CA Osasuna,20000000.0
+Jorge Herrando,555500,Osasuna,Defensa central,CA Osasuna,4000000.0
+Alejandro Catena,449796,Osasuna,Defensa central,CA Osasuna,3000000.0
+Unai García,197122,Osasuna,Defensa central,Panetolikos,800000.0
+Ismael Sierra,718195,Osasuna,Defensa central,Villarreal CF B,200000.0
+Abel Bretones,658115,Osasuna,Lateral izquierdo,CA Osasuna,4000000.0
+Juan Cruz,169497,Osasuna,Lateral izquierdo,CA Osasuna,1500000.0
+Jesús Areso,488626,Osasuna,Lateral derecho,Athletic Club,12000000.0
+Nacho Vidal,216870,Osasuna,Lateral derecho,Real Oviedo,1800000.0
+Rubén Peña,238868,Osasuna,Lateral derecho,CD Leganés,1200000.0
+Iñigo Arguibide,1065442,Osasuna,Lateral derecho,CA Osasuna Promesas,200000.0
+Lucas Torró,213670,Osasuna,Pivote,CA Osasuna,3000000.0
+Iker Muñoz,710677,Osasuna,Pivote,CA Osasuna,3000000.0
+Jon Moncayola,552425,Osasuna,Mediocentro,CA Osasuna,7000000.0
+Pablo Ibáñez,785353,Osasuna,Mediocentro,Deportivo Alavés,2000000.0
+Asier Osambela,1038512,Osasuna,Mediocentro,CA Osasuna,500000.0
+Jon García,941080,Osasuna,Mediocentro,CA Osasuna Promesas,300000.0
+Aimar Oroz,634131,Osasuna,Mediocentro ofensivo,CA Osasuna,15000000.0
+Moi Gómez,175449,Osasuna,Mediocentro ofensivo,CA Osasuna,2000000.0
+Javi Martínez,471474,Osasuna,Mediocentro ofensivo,SD Eibar,800000.0
+Bryan Zaragoza,713644,Osasuna,Extremo izquierdo,AS Roma,12000000.0
+José Manuel Arnáiz,364603,Osasuna,Extremo izquierdo,Granada CF,1500000.0
+Rubén García,213260,Osasuna,Extremo derecho,CA Osasuna,2000000.0
+Iker Benito,710679,Osasuna,Extremo derecho,CA Osasuna,1500000.0
+Kike Barja,298575,Osasuna,Extremo derecho,CA Osasuna,1500000.0
+Ante Budimir,46413,Osasuna,Delantero centro,CA Osasuna,5000000.0
+Raúl García,631002,Osasuna,Delantero centro,CA Osasuna,3000000.0
+Sixtus Ogbuehi,1230201,Osasuna,Delantero centro,KV Kortrijk,200000.0
+Carlos Lumbreras,1065441,Osasuna,Delantero centro,CA Osasuna Promesas,150000.0
+David Soria,226012,Getafe,Portero,Getafe CF,3000000.0
+Jiri Letacek,339079,Getafe,Portero,Getafe CF,2000000.0
+Jorge Benito,1135452,Getafe,Portero,Getafe CF B,25000.0
+Djordjije Medenica,1130318,Getafe,Portero,Getafe CF B,
+Diego Ferrer,1298885,Getafe,Portero,Getafe CF B,
+Omar Alderete,353032,Getafe,Defensa central,Sunderland AFC,8000000.0
+Dakonam Djené,221150,Getafe,Defensa central,Getafe CF,1800000.0
+Juan Berrocal,461843,Getafe,Defensa central,Atlanta United FC,1500000.0
+Domingos Duarte,257376,Getafe,Defensa central,Getafe CF,800000.0
+Nabil Aberdin,908621,Getafe,Defensa central,Al-Jazira Club,700000.0
+Luca Lohr,973690,Getafe,Defensa central,CD Arenteiro,150000.0
+Guillem Trilla,1216529,Getafe,Defensa central,CD Tenerife B,25000.0
+Juan Bernat,126719,Getafe,Lateral izquierdo,SD Eibar,2000000.0
+Diego Rico,249513,Getafe,Lateral izquierdo,Getafe CF,1200000.0
+David Argüelles,719720,Getafe,Lateral izquierdo,CD Lealtad,100000.0
+Gorka Rivera,1000136,Getafe,Lateral izquierdo,Getafe CF B,100000.0
+Juan Iglesias,390688,Getafe,Lateral derecho,Getafe CF,3500000.0
+Allan Nyom,111508,Getafe,Lateral derecho,Getafe CF,300000.0
+Ismael Bekhoucha,1164331,Getafe,Lateral derecho,Getafe CF,300000.0
+Mauro Arambarri,290249,Getafe,Mediocentro,Getafe CF,12000000.0
+Ramón Terrats,783396,Getafe,Mediocentro,RCD Espanyol,4000000.0
+Luis Milla,281989,Getafe,Mediocentro,Getafe CF,3500000.0
+Carles Aleñá,284854,Getafe,Mediocentro,Deportivo Alavés,2500000.0
+John Patrick,841121,Getafe,Mediocentro,Stade de Reims,1200000.0
+Yellu Santiago,941869,Getafe,Mediocentro,FC Arouca,900000.0
+Alberto Risco,1255616,Getafe,Mediocentro ofensivo,Getafe CF B,200000.0
+Coba da Costa,1033005,Getafe,Extremo izquierdo,RSC Anderlecht,3000000.0
+Juanmi,126737,Getafe,Extremo izquierdo,Getafe CF,2000000.0
+Abdoulaye Keita,949489,Getafe,Extremo izquierdo,SD Ponferradina,200000.0
+Álex Sola,434990,Getafe,Extremo derecho,Granada CF,2500000.0
+Carles Pérez,282810,Getafe,Extremo derecho,Aris de Salónica,2000000.0
+Peter Federico,710004,Getafe,Extremo derecho,Real Valladolid CF,1200000.0
+Christantus Uche,1124005,Getafe,Delantero centro,Crystal Palace,15000000.0
+Borja Mayoral,298976,Getafe,Delantero centro,Getafe CF,7500000.0
+Álvaro Rodríguez,948275,Getafe,Delantero centro,Elche CF,2500000.0
+Bertuğ Yıldırım,672803,Getafe,Delantero centro,Basaksehir FK,2000000.0
+Martín Cuéllar,1360962,Getafe,Delantero centro,Getafe CF B,
+Augusto Batalla,275218,Rayo Vallecano,Portero,Rayo Vallecano,6000000.0
+Dani Cárdenas,397676,Rayo Vallecano,Portero,Rayo Vallecano,1800000.0
+Miguel Ángel Morro,607780,Rayo Vallecano,Portero,Leixões SC,300000.0
+Juanpe Gil,708370,Rayo Vallecano,Portero,Rayo Vallecano B,
+Miguel Benedi,1064644,Rayo Vallecano,Portero,AD Alcorcón B,
+Adrián Molina,1322790,Rayo Vallecano,Portero,Rayo Vallecano B,
+Abdul Mumin,451801,Rayo Vallecano,Defensa central,Rayo Vallecano,5000000.0
+Florian Lejeune,127108,Rayo Vallecano,Defensa central,Rayo Vallecano,2500000.0
+Pelayo Fernández,692208,Rayo Vallecano,Defensa central,Cádiz CF,500000.0
+Aridane Hernández,82503,Rayo Vallecano,Defensa central,FC Cartagena,300000.0
+Sergio Lozano,1384902,Rayo Vallecano,Defensa central,Rayo Vallecano B,
+Pep Chavarría,596122,Rayo Vallecano,Lateral izquierdo,Rayo Vallecano,5000000.0
+Alfonso Espino,311044,Rayo Vallecano,Lateral izquierdo,Rayo Vallecano,1200000.0
+Andrei Rațiu,527966,Rayo Vallecano,Lateral derecho,Rayo Vallecano,12000000.0
+Iván Balliu,85295,Rayo Vallecano,Lateral derecho,Rayo Vallecano,1400000.0
+Marco de las Sías,948254,Rayo Vallecano,Lateral derecho,Rayo Vallecano B,
+Gerard Gumbau,268670,Rayo Vallecano,Pivote,Rayo Vallecano,1500000.0
+Pedro Díaz,363057,Rayo Vallecano,Mediocentro,Rayo Vallecano,3000000.0
+Unai López,192009,Rayo Vallecano,Mediocentro,Rayo Vallecano,2500000.0
+Óscar Valentín,517753,Rayo Vallecano,Mediocentro,Rayo Vallecano,2500000.0
+Pathé Ciss,525578,Rayo Vallecano,Mediocentro,Rayo Vallecano,2000000.0
+Diego Méndez,932349,Rayo Vallecano,Mediocentro,Rayo Vallecano B,100000.0
+James Rodríguez,88103,Rayo Vallecano,Mediocentro ofensivo,Minnesota United FC,2500000.0
+Randy Nteka,560483,Rayo Vallecano,Mediocentro ofensivo,Rayo Vallecano,1500000.0
+Joni Montiel,343273,Rayo Vallecano,Mediocentro ofensivo,Qarabağ FK,800000.0
+Óscar Trejo,30321,Rayo Vallecano,Mediocentro ofensivo,Rayo Vallecano,500000.0
+Álvaro García,257062,Rayo Vallecano,Extremo izquierdo,Rayo Vallecano,2000000.0
+Jorge de Frutos,455181,Rayo Vallecano,Extremo derecho,Rayo Vallecano,4000000.0
+Adrián Embarba,288318,Rayo Vallecano,Extremo derecho,UD Almería,1200000.0
+Isi Palazón,362086,Rayo Vallecano,Mediapunta,Rayo Vallecano,3500000.0
+Sergio Camello,505674,Rayo Vallecano,Delantero centro,Rayo Vallecano,3000000.0
+Raúl de Tomás,162038,Rayo Vallecano,Delantero centro,Al-Wakrah SC,700000.0
+Sergi Guardiola,256429,Rayo Vallecano,Delantero centro,Córdoba CF,500000.0
+Etienne Eto'o,707359,Rayo Vallecano,Delantero centro,Villarreal CF B,200000.0
+Iván Villar,297194,Celta Vigo,Portero,RC Celta de Vigo,900000.0
+Vicente Guaita,64399,Celta Vigo,Portero,Sin equipo,700000.0
+Marc Vidal,541621,Celta Vigo,Portero,RC Celta de Vigo,300000.0
+Coke Carrillo,581640,Celta Vigo,Portero,RC Celta Fortuna,200000.0
+César Fernández,646741,Celta Vigo,Portero,Racing Club de Ferrol,200000.0
+Javi Rodríguez,1076815,Celta Vigo,Defensa central,RC Celta de Vigo,15000000.0
+Carl Starfelt,258987,Celta Vigo,Defensa central,RC Celta de Vigo,6000000.0
+Carlos Domínguez,636093,Celta Vigo,Defensa central,RC Celta de Vigo,3000000.0
+Marcos Alonso,112515,Celta Vigo,Defensa central,RC Celta de Vigo,1500000.0
+Joseph Aidoo,358250,Celta Vigo,Defensa central,RC Celta de Vigo,1200000.0
+Yoel Lago,939374,Celta Vigo,Defensa central,RC Celta de Vigo,1000000.0
+Mihailo Ristic,271455,Celta Vigo,Lateral izquierdo,RC Celta de Vigo,900000.0
+Tincho Conde,933350,Celta Vigo,Lateral izquierdo,CD Castellón,300000.0
+Óscar Mingueza,331505,Celta Vigo,Lateral derecho,RC Celta de Vigo,20000000.0
+Sergio Carreira,545647,Celta Vigo,Lateral derecho,RC Celta de Vigo,4000000.0
+Javier Manquillo,162029,Celta Vigo,Lateral derecho,Retirado,1000000.0
+Damián Rodríguez,715628,Celta Vigo,Pivote,Real Racing Club ,3000000.0
+Jailson,366948,Celta Vigo,Pivote,Sin equipo,1000000.0
+Fran Beltrán,423444,Celta Vigo,Mediocentro,Girona FC,8000000.0
+Ilaix Moriba,617074,Celta Vigo,Mediocentro,RC Celta de Vigo,6000000.0
+Hugo Sotelo,892221,Celta Vigo,Mediocentro,RC Celta de Vigo,4000000.0
+Luca de la Torre,315762,Celta Vigo,Mediocentro,Charlotte FC,2000000.0
+Miguel Román,892932,Celta Vigo,Mediocentro,RC Celta de Vigo,400000.0
+Fer López,1064471,Celta Vigo,Mediocentro ofensivo,RC Celta de Vigo,5000000.0
+Hugo Álvarez,892929,Celta Vigo,Extremo izquierdo,RC Celta de Vigo,7500000.0
+Alfon González,357628,Celta Vigo,Extremo izquierdo,Villarreal CF,5000000.0
+Williot Swedberg,764859,Celta Vigo,Extremo izquierdo,RC Celta de Vigo,5000000.0
+Jonathan Bamba,292818,Celta Vigo,Extremo izquierdo,Chicago Fire FC,3500000.0
+Franco Cervi,341110,Celta Vigo,Extremo izquierdo,RC Celta de Vigo,800000.0
+Tadeo Allende,872184,Celta Vigo,Extremo derecho,Inter Miami CF,2000000.0
+Jones El-Abdellaoui,960571,Celta Vigo,Extremo derecho,RC Celta de Vigo,1500000.0
+Iker Losada,632741,Celta Vigo,Mediapunta,Levante UD,1500000.0
+Anastasios Douvikas,523318,Celta Vigo,Delantero centro,Como 1907,10000000.0
+Pablo Durán,905997,Celta Vigo,Delantero centro,RC Celta de Vigo,3500000.0
+Borja Iglesias,278359,Celta Vigo,Delantero centro,RC Celta de Vigo,3000000.0
+Iago Aspas,72047,Celta Vigo,Delantero centro,RC Celta de Vigo,2000000.0
+Pau López,286415,Girona,Portero,Real Betis Balompié,2500000.0
+Paulo Gazzaniga,195488,Girona,Portero,Girona FC,2500000.0
+Vladyslav Krapyvtsov,1169436,Girona,Portero,Girona FC,200000.0
+Juan Carlos,120705,Girona,Portero,Girona FC,100000.0
+Lucas García,1061650,Girona,Portero,CE Europa,
+Aleksandar Andreev,1135665,Girona,Portero,Girona FC B,
+Jordi Danso,1319440,Girona,Portero,Girona FC Juvenil A,
+Pau Funallet,1319442,Girona,Portero,CF Damm Juvenil A,
+Ladislav Krejčí,345911,Girona,Defensa central,Wolverhampton Wanderers,12000000.0
+Alejandro Francés,632896,Girona,Defensa central,Girona FC,2000000.0
+Daley Blind,12282,Girona,Defensa central,Girona FC,1500000.0
+David López,129444,Girona,Defensa central,Girona FC,1000000.0
+Juanpe,115333,Girona,Defensa central,Atlético de San Luis,600000.0
+Oriol Comas,908234,Girona,Defensa central,Girona FC B,
+Antal Yaakobishvili,923915,Girona,Defensa central,CD Tenerife,
+Marc Aznar,1018563,Girona,Defensa central,SD Huesca B,
+Miguel Gutiérrez,525299,Girona,Lateral izquierdo,SSC Nápoles,20000000.0
+Arnau Martínez,826224,Girona,Lateral derecho,Girona FC,10000000.0
+Ferran Ruiz,668210,Girona,Lateral derecho,Girona FC B,
+Oriol Romeu,66100,Girona,Pivote,Southampton FC,1200000.0
+Selvi Clua,1061660,Girona,Pivote,CD Mirandés,300000.0
+Yangel Herrera,378293,Girona,Mediocentro,Real Sociedad,15000000.0
+Iván Martín,341278,Girona,Mediocentro,Girona FC,6000000.0
+Donny van de Beek,288255,Girona,Mediocentro,Girona FC,5000000.0
+Arthur Melo,362842,Girona,Mediocentro,Grêmio Foot-Ball Porto Alegrense,5000000.0
+Jhon Solís,742521,Girona,Mediocentro,Birmingham City,2500000.0
+Enric García,1000626,Girona,Mediocentro,Girona FC B,
+Raúl Martínez,1129175,Girona,Mediocentro,Girona FC B,
+Gabriel Misehouy,646698,Girona,Mediocentro ofensivo,Aris de Salónica,1000000.0
+Ricard Artero,906025,Girona,Mediocentro ofensivo,Girona FC B,
+Bryan Gil,537382,Girona,Extremo izquierdo,Girona FC,15000000.0
+Arnaut Danjuma,355861,Girona,Extremo izquierdo,Valencia CF,4000000.0
+Joel Roca,895326,Girona,Extremo izquierdo,Girona FC,1000000.0
+Toni Villa,337066,Girona,Extremo izquierdo,SD Eibar,800000.0
+Min-su Kim,1108203,Girona,Extremo izquierdo,FC Andorra,300000.0
+Juan Arango,1025582,Girona,Extremo izquierdo,Girona FC B,
+Jastin Garcia,1061665,Girona,Extremo izquierdo,FC Andorra,
+Viktor Tsygankov,264372,Girona,Extremo derecho,Girona FC,18000000.0
+Yáser Asprilla,857818,Girona,Extremo derecho,Galatasaray,15000000.0
+Portu,99353,Girona,Extremo derecho,Girona FC,1800000.0
+Iker Almena,1061656,Girona,Extremo derecho,HNK Hajduk Split,1300000.0
+Papa Ba,1337084,Girona,Extremo derecho,Girona FC B,
+Abel Ruiz,340376,Girona,Delantero centro,Girona FC,4000000.0
+Bojan Miovski,476219,Girona,Delantero centro,Rangers FC,2500000.0
+Cristhian Stuani,59323,Girona,Delantero centro,Girona FC,1000000.0
+Dawda Camara,891923,Girona,Delantero centro,Cádiz CF,
+Dominik Greif,316884,Mallorca,Portero,Olympique de Lyon,6000000.0
+Leo Román,562742,Mallorca,Portero,RCD Mallorca,5000000.0
+Iván Cuéllar,27493,Mallorca,Portero,RCD Mallorca,100000.0
+Pere García,632913,Mallorca,Portero,Valencia Mestalla,50000.0
+Martin Valjent,277384,Mallorca,Defensa central,RCD Mallorca,6000000.0
+José Copete,520840,Mallorca,Defensa central,Valencia CF,3000000.0
+Siebe Van der Heyden,400131,Mallorca,Defensa central,KAA Gante,2500000.0
+Antonio Raíllo,278296,Mallorca,Defensa central,RCD Mallorca,1800000.0
+David López,947431,Mallorca,Defensa central,RCD Mallorca,500000.0
+Sebas Wade,945702,Mallorca,Defensa central,Septemvri Sofia,25000.0
+Johan Mojica,262939,Mallorca,Lateral izquierdo,RCD Mallorca,2000000.0
+Toni Lato,320271,Mallorca,Lateral izquierdo,RCD Mallorca,1800000.0
+Pablo Maffeo,251876,Mallorca,Lateral derecho,RCD Mallorca,5000000.0
+Mateu Morey,388513,Mallorca,Lateral derecho,RCD Mallorca,800000.0
+Samú Costa,657430,Mallorca,Pivote,RCD Mallorca,15000000.0
+Omar Mascarell,142031,Mallorca,Pivote,RCD Mallorca,900000.0
+Sergi Darder,142021,Mallorca,Mediocentro,RCD Mallorca,4000000.0
+Manu Morlanes,335225,Mallorca,Mediocentro,RCD Mallorca,2500000.0
+Antonio Sánchez,513031,Mallorca,Mediocentro,RCD Mallorca,2500000.0
+Jan Salas,1063574,Mallorca,Mediocentro,RCD Mallorca,100000.0
+Dani Rodríguez,139435,Mallorca,Mediocentro ofensivo,CD Leganés,800000.0
+Daniel Luna,857830,Mallorca,Mediocentro ofensivo,SD Huesca,500000.0
+Chiquinho,695454,Mallorca,Extremo izquierdo,FC Alverca,2000000.0
+Javi Llabrés,706138,Mallorca,Extremo izquierdo,RCD Mallorca,800000.0
+Robert Navarro,563137,Mallorca,Extremo derecho,Athletic Club,6000000.0
+Takuma Asano,245744,Mallorca,Extremo derecho,RCD Mallorca,2500000.0
+Valery Fernández,331496,Mallorca,Extremo derecho,Real Zaragoza,2000000.0
+Vedat Muriqi,256267,Mallorca,Delantero centro,RCD Mallorca,5000000.0
+Cyle Larin,343463,Mallorca,Delantero centro,Southampton FC,3500000.0
+Abdón Prats,177452,Mallorca,Delantero centro,RCD Mallorca,1200000.0
+Marc Domènech,1296876,Mallorca,Delantero centro,AD Ceuta FC,1000000.0
+Antonio Sivera,298197,Alaves,Portero,Deportivo Alavés,6000000.0
+Jesús Owono,631693,Alaves,Portero,FC Andorra,900000.0
+Adrián Rodríguez,608382,Alaves,Portero,Real Zaragoza,200000.0
+Grégoire Swiderski,1063990,Alaves,Portero,Deportivo Alavés B,150000.0
+Abdel Abqar,559979,Alaves,Defensa central,Getafe CF,7500000.0
+Facundo Garcés,533354,Alaves,Defensa central,Deportivo Alavés,2000000.0
+Moussa Diarra,694509,Alaves,Defensa central,RSC Anderlecht,1800000.0
+Adrián Pica,895458,Alaves,Defensa central,CD Mirandés,1200000.0
+Aleksandar Sedlar,237499,Alaves,Defensa central,Tractor FC,300000.0
+Manu Sánchez,618809,Alaves,Lateral izquierdo,Levante UD,6000000.0
+Eneko Ortiz,892217,Alaves,Lateral izquierdo,Villarreal CF B,150000.0
+Santiago Mouriño,953901,Alaves,Lateral derecho,Villarreal CF,3000000.0
+Nahuel Tenaglia,533568,Alaves,Lateral derecho,Deportivo Alavés,3000000.0
+Hugo Novoa,668276,Alaves,Lateral derecho,CD Mirandés,1500000.0
+Egoitz Muñoz,1064391,Alaves,Lateral derecho,Deportivo Alavés B,200000.0
+Alejandro Jay,708534,Alaves,Lateral derecho,CE Europa,150000.0
+Antonio Blanco,495621,Alaves,Pivote,Deportivo Alavés,10000000.0
+Carlos Protesoni,431190,Alaves,Pivote,Deportivo Alavés,1200000.0
+Daouda Doumbia,1054933,Alaves,Pivote,CD Feirense,200000.0
+Ander Guevara,465967,Alaves,Mediocentro,Deportivo Alavés,3500000.0
+Jon Guridi,289257,Alaves,Mediocentro,Deportivo Alavés,3000000.0
+Carles Aleñá,284854,Alaves,Mediocentro,Deportivo Alavés,2500000.0
+Joan Jordán,263727,Alaves,Mediocentro,Sevilla FC,2500000.0
+Lander Pinillos,895591,Alaves,Mediocentro ofensivo,Deportivo Alavés B,150000.0
+Carlos Martín,618813,Alaves,Extremo izquierdo,Rayo Vallecano,2800000.0
+Tomás Conechny,401571,Alaves,Extremo izquierdo,Racing Club,1800000.0
+Abde Rebbach,718034,Alaves,Extremo izquierdo,Deportivo Alavés,700000.0
+Carlos Vicente,540536,Alaves,Extremo derecho,Birmingham City,10000000.0
+Luka Romero,769063,Alaves,Extremo derecho,CD Cruz Azul,4000000.0
+Luis Rioja,278837,Alaves,Extremo derecho,Valencia CF,2000000.0
+Julen Lartitegi,834756,Alaves,Extremo derecho,Arenas Club,50000.0
+Stoichkov,271021,Alaves,Mediapunta,RC Deportivo de La Coruña,1500000.0
+Joaquín Panichelli,1064871,Alaves,Delantero centro,Racing Club de Estrasburgo,7000000.0
+Toni Martínez,302371,Alaves,Delantero centro,Deportivo Alavés,2500000.0
+Asier Villalibre,251897,Alaves,Delantero centro,Real Racing Club ,1200000.0
+Kike García,93936,Alaves,Delantero centro,RCD Espanyol,900000.0
+Pau Cabanes,1063553,Alaves,Delantero centro,Villarreal CF,800000.0
+André Onana,234509,Manchester United,Portero,Trabzonspor,25000000.0
+Altay Bayındır,336077,Manchester United,Portero,Manchester United,8000000.0
+Tom Heaton,34130,Manchester United,Portero,Manchester United,200000.0
+Dermot Mee,620362,Manchester United,Portero,Manchester United U21,
+Hubert Graczyk,587018,Manchester United,Portero,Carshalton Athletic,
+Elyh Harrison,1013690,Manchester United,Portero,Manchester United U21,
+Will Murdock,1055382,Manchester United,Portero,Manchester United U21,
+Leny Yoro,923831,Manchester United,Defensa central,Manchester United,55000000.0
+Lisandro Martínez,480762,Manchester United,Defensa central,Manchester United,40000000.0
+Matthijs de Ligt,326031,Manchester United,Defensa central,Manchester United,38000000.0
+Harry Maguire,177907,Manchester United,Defensa central,Manchester United,13000000.0
+Victor Lindelöf,184573,Manchester United,Defensa central,Aston Villa,8000000.0
+Ayden Heaven,1078163,Manchester United,Defensa central,Manchester United,5000000.0
+Tyler Fredricson,911424,Manchester United,Defensa central,Manchester United U21,3000000.0
+Jonny Evans,42412,Manchester United,Defensa central,Retirado,1000000.0
+Godwill Kukonki,1184841,Manchester United,Defensa central,Manchester United U18,
+Patrick Dorgu,926952,Manchester United,Lateral izquierdo,Manchester United,25000000.0
+Luke Shaw,183288,Manchester United,Lateral izquierdo,Manchester United,12000000.0
+Tyrell Malacia,339340,Manchester United,Lateral izquierdo,Manchester United,8000000.0
+Harry Amass,1011738,Manchester United,Lateral izquierdo,Norwich City,5000000.0
+Diogo Dalot,357147,Manchester United,Lateral derecho,Manchester United,30000000.0
+Noussair Mazraoui,340456,Manchester United,Lateral derecho,Manchester United,25000000.0
+Habeeb Ogunneye,864788,Manchester United,Lateral derecho,Manchester United U21,
+Jaydan Kamason,1052892,Manchester United,Lateral derecho,Manchester United U21,
+Manuel Ugarte,476701,Manchester United,Pivote,Manchester United,45000000.0
+Casemiro,16306,Manchester United,Pivote,Manchester United,10000000.0
+Toby Collyer,654253,Manchester United,Pivote,Hull City,5000000.0
+Sékou Koné,1133978,Manchester United,Pivote,FC Lausanne-Sport,
+Scott McTominay,315969,Manchester United,Mediocentro,SSC Nápoles,50000000.0
+Kobbie Mainoo,820374,Manchester United,Mediocentro,Manchester United,50000000.0
+Dan Gore,747153,Manchester United,Mediocentro,Rotherham United,800000.0
+Jack Moorhouse,953933,Manchester United,Mediocentro,Manchester United U21,
+Jayce Fitzgerald,964690,Manchester United,Mediocentro,Manchester United U21,
+Bruno Fernandes,240306,Manchester United,Mediocentro ofensivo,Manchester United,50000000.0
+Mason Mount,346483,Manchester United,Mediocentro ofensivo,Manchester United,28000000.0
+Christian Eriksen,69633,Manchester United,Mediocentro ofensivo,VfL Wolfsburgo,4000000.0
+Jack Fletcher,1011140,Manchester United,Mediocentro ofensivo,Manchester United U21,
+Marcus Rashford,258923,Manchester United,Extremo izquierdo,FC Barcelona,50000000.0
+Alejandro Garnacho,811779,Manchester United,Extremo izquierdo,Chelsea FC,45000000.0
+Jadon Sancho,401173,Manchester United,Extremo izquierdo,Aston Villa,28000000.0
+James Scanlon,1051146,Manchester United,Extremo izquierdo,Swindon Town,
+Amad Diallo,536835,Manchester United,Extremo derecho,Manchester United,45000000.0
+Antony,602105,Manchester United,Extremo derecho,Real Betis Balompié,35000000.0
+Facundo Pellistri,676318,Manchester United,Extremo derecho,Panathinaikos,8000000.0
+Bendito Mantato,1085591,Manchester United,Extremo derecho,Manchester United U21,
+Rasmus Højlund,610442,Manchester United,Delantero centro,SSC Nápoles,35000000.0
+Joshua Zirkzee,435648,Manchester United,Delantero centro,Manchester United,30000000.0
+Chido Obi,1042886,Manchester United,Delantero centro,Manchester United,5000000.0
+Ethan Wheatley,888639,Manchester United,Delantero centro,Bradford City,
+Guglielmo Vicario,286047,Tottenham,Portero,Tottenham Hotspur,32000000.0
+Antonín Kinský,725912,Tottenham,Portero,Tottenham Hotspur,15000000.0
+Fraser Forster,52570,Tottenham,Portero,AFC Bournemouth,1000000.0
+Brandon Austin,428016,Tottenham,Portero,Tottenham Hotspur,600000.0
+Alfie Whiteman,282823,Tottenham,Portero,Retirado,500000.0
+Cristian Romero,355915,Tottenham,Defensa central,Tottenham Hotspur,50000000.0
+Micky van de Ven,557459,Tottenham,Defensa central,Tottenham Hotspur,50000000.0
+Kevin Danso,263236,Tottenham,Defensa central,Tottenham Hotspur,25000000.0
+Radu Drăgușin,568559,Tottenham,Defensa central,Tottenham Hotspur,25000000.0
+Ben Davies,192765,Tottenham,Defensa central,Tottenham Hotspur,6000000.0
+Alfie Dorrington,796300,Tottenham,Defensa central,Salford City,700000.0
+Dante Cassanova,738269,Tottenham,Defensa central,Tottenham Hotspur U21,
+Maeson King,1047342,Tottenham,Defensa central,Tottenham Hotspur U21,
+Malachi Hardy,1108465,Tottenham,Defensa central,Tottenham Hotspur U18,
+Destiny Udogie,556385,Tottenham,Lateral izquierdo,Tottenham Hotspur,40000000.0
+Djed Spence,483348,Tottenham,Lateral izquierdo,Tottenham Hotspur,20000000.0
+Sergio Reguilón,282429,Tottenham,Lateral izquierdo,Inter Miami CF,6000000.0
+Pedro Porro,553875,Tottenham,Lateral derecho,Tottenham Hotspur,38000000.0
+Rodrigo Bentancur,354362,Tottenham,Pivote,Tottenham Hotspur,30000000.0
+Yves Bissouma,410425,Tottenham,Pivote,Tottenham Hotspur,25000000.0
+Archie Gray,922693,Tottenham,Mediocentro,Tottenham Hotspur,38000000.0
+Lucas Bergvall,866246,Tottenham,Mediocentro,Tottenham Hotspur,38000000.0
+Pape Matar Sarr,568693,Tottenham,Mediocentro,Tottenham Hotspur,32000000.0
+Callum Olusesi,985546,Tottenham,Mediocentro,Tottenham Hotspur U21,500000.0
+Rio Kyerematen,882172,Tottenham,Mediocentro,Tottenham Hotspur U21,
+Dejan Kulusevski,431755,Tottenham,Mediocentro ofensivo,Tottenham Hotspur,50000000.0
+James Maddison,294057,Tottenham,Mediocentro ofensivo,Tottenham Hotspur,42000000.0
+Alfie Devine,728734,Tottenham,Mediocentro ofensivo,Preston North End,3500000.0
+Luca Williams-Barnett,1108475,Tottenham,Mediocentro ofensivo,Tottenham Hotspur U21,
+Heung-min Son,91845,Tottenham,Extremo izquierdo,Los Ángeles FC,20000000.0
+Wilson Odobert,743498,Tottenham,Extremo izquierdo,Tottenham Hotspur,20000000.0
+Mikey Moore,1011147,Tottenham,Extremo izquierdo,Rangers FC,18000000.0
+Brennan Johnson,470607,Tottenham,Extremo derecho,Crystal Palace,40000000.0
+Min-hyeok Yang,1004327,Tottenham,Extremo derecho,Coventry City,3500000.0
+Damola Ajayi,999745,Tottenham,Extremo derecho,Bromley FC,
+Dominic Solanke,258889,Tottenham,Delantero centro,Tottenham Hotspur,40000000.0
+Mathys Tel,801734,Tottenham,Delantero centro,Tottenham Hotspur,35000000.0
+Richarlison,378710,Tottenham,Delantero centro,Tottenham Hotspur,20000000.0
+Timo Werner,170527,Tottenham,Delantero centro,San José Earthquakes,7000000.0
+Will Lankshear,879768,Tottenham,Delantero centro,Oxford United,3000000.0
+Dane Scarlett,670883,Tottenham,Delantero centro,Hibernian FC,2000000.0
+Nick Pope,192080,Newcastle,Portero,Newcastle United,8000000.0
+Odysseas Vlachodimos,124419,Newcastle,Portero,Sevilla FC,5000000.0
+Martin Dúbravka,74960,Newcastle,Portero,Burnley FC,1000000.0
+Mark Gillespie,142389,Newcastle,Portero,Newcastle United,200000.0
+John Ruddy,29712,Newcastle,Portero,Newcastle United,150000.0
+Sven Botman,361093,Newcastle,Defensa central,Newcastle United,42000000.0
+Lloyd Kelly,480116,Newcastle,Defensa central,Juventus de Turín,16000000.0
+Fabian Schär,135343,Newcastle,Defensa central,Newcastle United,7000000.0
+Dan Burn,134270,Newcastle,Defensa central,Newcastle United,6000000.0
+Jamaal Lascelles,183318,Newcastle,Defensa central,Leicester City,4000000.0
+Lewis Hall,670858,Newcastle,Lateral izquierdo,Newcastle United,32000000.0
+Matt Targett,250478,Newcastle,Lateral izquierdo,Middlesbrough FC,5000000.0
+Jamal Lewis,346018,Newcastle,Lateral izquierdo,Preston North End,2500000.0
+Alex Murphy,900601,Newcastle,Lateral izquierdo,Newcastle United,300000.0
+Tino Livramento,503981,Newcastle,Lateral derecho,Newcastle United,40000000.0
+Kieran Trippier,95810,Newcastle,Lateral derecho,Newcastle United,4000000.0
+Emil Krafth,184528,Newcastle,Lateral derecho,Newcastle United,2000000.0
+Harrison Ashby,559130,Newcastle,Lateral derecho,Bradford City,1400000.0
+Leo Shahar,940858,Newcastle,Lateral derecho,Newcastle United U21,
+Sandro Tonali,397033,Newcastle,Pivote,Newcastle United,60000000.0
+Isaac Hayden,206225,Newcastle,Pivote,Queens Park Rangers,700000.0
+Bruno Guimarães,520624,Newcastle,Mediocentro,Newcastle United,80000000.0
+Joelinton,333241,Newcastle,Mediocentro,Newcastle United,35000000.0
+Joe Willock,340329,Newcastle,Mediocentro,Newcastle United,22000000.0
+Lewis Miley,922769,Newcastle,Mediocentro,Newcastle United,22000000.0
+Sean Longstaff,346707,Newcastle,Mediocentro,Leeds United,20000000.0
+Joe White,614811,Newcastle,Mediocentro ofensivo,Bradford City,275000.0
+Anthony Gordon,503733,Newcastle,Extremo izquierdo,Newcastle United,65000000.0
+Harvey Barnes,398065,Newcastle,Extremo izquierdo,Newcastle United,35000000.0
+Trevan Sanusi,1011152,Newcastle,Extremo izquierdo,FC Lorient,
+Jacob Murphy,199527,Newcastle,Extremo derecho,Newcastle United,16000000.0
+Miguel Almirón,272999,Newcastle,Extremo derecho,Atlanta United FC,10000000.0
+Alexander Isak,349066,Newcastle,Delantero centro,Liverpool FC,120000000.0
+Callum Wilson,123682,Newcastle,Delantero centro,West Ham United,8000000.0
+William Osula,609556,Newcastle,Delantero centro,Newcastle United,7000000.0
+Sean Neave,1071818,Newcastle,Delantero centro,Newcastle United U21,
+Emiliano Martínez,111873,Aston Villa,Portero,Aston Villa,20000000.0
+Joe Gauci,591844,Aston Villa,Portero,Port Vale FC,1500000.0
+Robin Olsen,75458,Aston Villa,Portero,Malmoe FF,1000000.0
+Oliwier Zych,555074,Aston Villa,Portero,Raków Częstochowa,800000.0
+Sam Proctor,1004709,Aston Villa,Portero,Aston Villa U21,
+Ezri Konsa,413403,Aston Villa,Defensa central,Aston Villa,35000000.0
+Pau Torres,399776,Aston Villa,Defensa central,Aston Villa,32000000.0
+Axel Disasi,386047,Aston Villa,Defensa central,West Ham United,22000000.0
+Diego Carlos,329145,Aston Villa,Defensa central,Como 1907,9500000.0
+Tyrone Mings,253677,Aston Villa,Defensa central,Aston Villa,5000000.0
+Kortney Hause,233124,Aston Villa,Defensa central,Sin equipo,1000000.0
+Sil Swinkels,646710,Aston Villa,Defensa central,FC Chesterfield,150000.0
+Ian Maatsen,485585,Aston Villa,Lateral izquierdo,Aston Villa,28000000.0
+Lucas Digne,126664,Aston Villa,Lateral izquierdo,Aston Villa,10000000.0
+Travis Patterson,874902,Aston Villa,Lateral izquierdo,FC Annecy,
+Matty Cash,425334,Aston Villa,Lateral derecho,Aston Villa,25000000.0
+Kosta Nedeljkovic,848682,Aston Villa,Lateral derecho,RB Leipzig,10000000.0
+Andrés García,1063329,Aston Villa,Lateral derecho,Aston Villa,7000000.0
+Triston Rowe,984593,Aston Villa,Lateral derecho,FC Annecy,
+Amadou Onana,485706,Aston Villa,Pivote,Aston Villa,50000000.0
+Boubacar Kamara,394327,Aston Villa,Pivote,Aston Villa,40000000.0
+Lamare Bogarde,645686,Aston Villa,Pivote,Aston Villa,6000000.0
+Youri Tielemans,249565,Aston Villa,Mediocentro,Aston Villa,38000000.0
+Jacob Ramsey,503749,Aston Villa,Mediocentro,Newcastle United,32000000.0
+John McGinn,193116,Aston Villa,Mediocentro,Aston Villa,16000000.0
+Ross Barkley,131978,Aston Villa,Mediocentro,Aston Villa,6000000.0
+Aidan Borland,1049905,Aston Villa,Mediocentro,Swindon Town,
+Morgan Rogers,503743,Aston Villa,Mediocentro ofensivo,Aston Villa,55000000.0
+Marco Asensio,296622,Aston Villa,Mediocentro ofensivo,Fenerbahce,20000000.0
+Emiliano Buendía,321247,Aston Villa,Mediocentro ofensivo,Aston Villa,15000000.0
+Jamaldeen Jimoh-Aloba,954105,Aston Villa,Mediocentro ofensivo,West Bromwich Albion,300000.0
+Marcus Rashford,258923,Aston Villa,Extremo izquierdo,FC Barcelona,50000000.0
+Jaden Philogene,665390,Aston Villa,Extremo izquierdo,Ipswich Town,16000000.0
+Kadan Young,887433,Aston Villa,Extremo izquierdo,FC Reading,300000.0
+Ben Broggio,985544,Aston Villa,Extremo izquierdo,Falkirk FC,
+Leon Bailey,387626,Aston Villa,Extremo derecho,Aston Villa,28000000.0
+Bradley Burrowes,1202361,Aston Villa,Extremo derecho,Aston Villa U21,
+Ollie Watkins,324358,Aston Villa,Delantero centro,Aston Villa,40000000.0
+Jhon Durán,649317,Aston Villa,Delantero centro,Zenit de San Petersburgo,35000000.0
+Donyell Malen,326029,Aston Villa,Delantero centro,AS Roma,25000000.0
+Kobei Moore,867706,Aston Villa,Delantero centro,Dungannon Swifts,
+Alphonse Areola,120629,West Ham,Portero,West Ham United,9000000.0
+Wes Foderingham,61697,West Ham,Portero,Aris Limassol,600000.0
+Lukasz Fabianski,29692,West Ham,Portero,West Ham United,500000.0
+Jean-Clair Todibo,605184,West Ham,Defensa central,West Ham United,25000000.0
+Maximilian Kilman,525247,West Ham,Defensa central,West Ham United,25000000.0
+Konstantinos Mavropanos,415912,West Ham,Defensa central,West Ham United,17000000.0
+Kaelan Casey,845321,West Ham,Defensa central,Leyton Orient,1000000.0
+Ezra Mayers,1107726,West Ham,Defensa central,West Ham United U21,
+Emerson,181778,West Ham,Lateral izquierdo,Olympique de Marsella,10000000.0
+Oliver Scarles,922563,West Ham,Lateral izquierdo,West Ham United,8000000.0
+Aaron Cresswell,92571,West Ham,Lateral izquierdo,Stoke City,500000.0
+Aaron Wan-Bissaka,477758,West Ham,Lateral derecho,West Ham United,24000000.0
+Vladimír Coufal,157672,West Ham,Lateral derecho,TSG 1899 Hoffenheim,5000000.0
+Edson Álvarez,401356,West Ham,Pivote,Fenerbahce,25000000.0
+Tomáš Souček,283628,West Ham,Pivote,West Ham United,18000000.0
+Guido Rodríguez,342385,West Ham,Pivote,Valencia CF,10000000.0
+Carlos Soler,372246,West Ham,Mediocentro,Real Sociedad,18000000.0
+James Ward-Prowse,181579,West Ham,Mediocentro,Burnley FC,8000000.0
+Andrew Irving,430310,West Ham,Mediocentro,AC Sparta Praga,4000000.0
+Lewis Orford,845809,West Ham,Mediocentro,West Ham United U21,400000.0
+Lucas Paquetá,444523,West Ham,Mediocentro ofensivo,CR Flamengo,28000000.0
+Crysencio Summerville,474701,West Ham,Extremo izquierdo,West Ham United,22000000.0
+Mohammed Kudus,543499,West Ham,Extremo derecho,Tottenham Hotspur,45000000.0
+Jarrod Bowen,314875,West Ham,Extremo derecho,West Ham United,40000000.0
+Luís Guilherme,991800,West Ham,Extremo derecho,Sporting de Lisboa,15000000.0
+Evan Ferguson,648046,West Ham,Delantero centro,AS Roma,25000000.0
+Niclas Füllkrug,75489,West Ham,Delantero centro,AC Milan,10000000.0
+Danny Ings,134294,West Ham,Delantero centro,Sheffield United,6000000.0
+Michail Antonio,104124,West Ham,Delantero centro,Al-Sailiya SC,700000.0
+Bart Verbruggen,565093,Brighton,Portero,Brighton & Hove Albion,30000000.0
+Carl Rushworth,646353,Brighton,Portero,Coventry City,3000000.0
+Jason Steele,73564,Brighton,Portero,Brighton & Hove Albion,1500000.0
+Tom McGill,406556,Brighton,Portero,Brighton & Hove Albion,600000.0
+Killian Cahill,745716,Brighton,Portero,Leyton Orient,150000.0
+Jan Paul van Hecke,576314,Brighton,Defensa central,Brighton & Hove Albion,32000000.0
+Igor Julio,380350,Brighton,Defensa central,Brighton & Hove Albion,20000000.0
+Adam Webster,212847,Brighton,Defensa central,Brighton & Hove Albion,11000000.0
+Eiran Cashin,581330,Brighton,Defensa central,Blackburn Rovers,8000000.0
+Lewis Dunk,148153,Brighton,Defensa central,Brighton & Hove Albion,6000000.0
+Ruairi McConville,701021,Brighton,Defensa central,Norwich City,1800000.0
+Odeluga Offiah,567597,Brighton,Defensa central,Preston North End,600000.0
+Ed Turns,580809,Brighton,Defensa central,Exeter City,350000.0
+Freddie Simmonds,1120418,Brighton,Defensa central,Brighton & Hove Albion U21,
+Pervis Estupiñán,349599,Brighton,Lateral izquierdo,AC Milan,30000000.0
+Ferdi Kadıoğlu,369316,Brighton,Lateral izquierdo,Brighton & Hove Albion,25000000.0
+Jacob Slater,854930,Brighton,Lateral izquierdo,Harrogate Town,200000.0
+Imari Samuels,565846,Brighton,Lateral izquierdo,Dundee FC,100000.0
+Mats Wieffer,415381,Brighton,Lateral derecho,Brighton & Hove Albion,25000000.0
+Tariq Lamptey,504148,Brighton,Lateral derecho,Fiorentina,11000000.0
+Joël Veltman,111195,Brighton,Lateral derecho,Brighton & Hove Albion,4000000.0
+Charlie Tasker,921662,Brighton,Lateral derecho,Brighton & Hove Albion U21,200000.0
+Carlos Baleba,973085,Brighton,Pivote,Brighton & Hove Albion,40000000.0
+Jack Hinshelwood,867688,Brighton,Pivote,Brighton & Hove Albion,24000000.0
+Billy Gilmour,423744,Brighton,Pivote,SSC Nápoles,20000000.0
+Yasin Ayari,667287,Brighton,Mediocentro,Brighton & Hove Albion,22000000.0
+Matt O'Riley,406634,Brighton,Mediocentro,Brighton & Hove Albion,22000000.0
+Malick Yalcouyé,1178758,Brighton,Mediocentro,Swansea City,17000000.0
+Diego Gómez,996897,Brighton,Mediocentro,Brighton & Hove Albion,14000000.0
+Jakub Moder,384461,Brighton,Mediocentro,Feyenoord,12000000.0
+Valentín Barco,849410,Brighton,Mediocentro,Racing Club de Estrasburgo,12000000.0
+James Milner,3333,Brighton,Mediocentro,Brighton & Hove Albion,1000000.0
+Jensen Weir,520651,Brighton,Mediocentro,Wigan Athletic,350000.0
+Joe Knight,978668,Brighton,Mediocentro,FC Stevenage,
+Brajan Gruda,700106,Brighton,Mediocentro ofensivo,RB Leipzig,25000000.0
+Julio Enciso,660867,Brighton,Mediocentro ofensivo,Racing Club de Estrasburgo,22000000.0
+Harry Howell,1067168,Brighton,Mediocentro ofensivo,Brighton & Hove Albion U21,
+Kaoru Mitoma,504849,Brighton,Extremo izquierdo,Brighton & Hove Albion,40000000.0
+Simon Adingra,658536,Brighton,Extremo izquierdo,AS Mónaco,28000000.0
+Jeremy Sarmiento,568005,Brighton,Extremo izquierdo,Middlesbrough FC,7000000.0
+Cameron Peupion,703626,Brighton,Extremo izquierdo,ADO Den Haag,225000.0
+Yankuba Minteh,1012534,Brighton,Extremo derecho,Brighton & Hove Albion,30000000.0
+Solly March,209212,Brighton,Extremo derecho,Brighton & Hove Albion,6000000.0
+Amario Cozier-Duberry,878150,Brighton,Extremo derecho,Bolton Wanderers,2000000.0
+João Pedro,626724,Brighton,Delantero centro,Chelsea FC,50000000.0
+Georginio Rutter,538977,Brighton,Delantero centro,Brighton & Hove Albion,32000000.0
+Evan Ferguson,648046,Brighton,Delantero centro,AS Roma,25000000.0
+Danny Welbeck,67063,Brighton,Delantero centro,Brighton & Hove Albion,5000000.0
+Mark O'Mahony,943549,Brighton,Delantero centro,FC Reading,500000.0
+Jordan Pickford,130164,Everton,Portero,Everton FC,18000000.0
+João Virgínia,329813,Everton,Portero,Sporting de Lisboa,800000.0
+Asmir Begovic,33873,Everton,Portero,Leicester City,250000.0
+Zan-Luk Leban,605757,Everton,Portero,NK Celje,150000.0
+Jarrad Branthwaite,661053,Everton,Defensa central,Everton FC,50000000.0
+James Tarkowski,173504,Everton,Defensa central,Everton FC,9000000.0
+Michael Keane,118534,Everton,Defensa central,Everton FC,5000000.0
+Mason Holgate,348623,Everton,Defensa central,Al-Sailiya SC,4000000.0
+Reece Welch,655986,Everton,Defensa central,FC Everton U21,350000.0
+Bradley Moonan,1031258,Everton,Defensa central,FC Everton U21,
+Vitaliy Mykolenko,404842,Everton,Lateral izquierdo,Everton FC,28000000.0
+Jake O'Brien,711544,Everton,Lateral derecho,Everton FC,18000000.0
+Nathan Patterson,424015,Everton,Lateral derecho,Everton FC,15000000.0
+Ashley Young,14086,Everton,Lateral derecho,Ipswich Town,500000.0
+Séamus Coleman,68390,Everton,Lateral derecho,Everton FC,500000.0
+Roman Dixon,856479,Everton,Lateral derecho,Stockport County,200000.0
+Orel Mangala,289592,Everton,Pivote,Olympique de Lyon,18000000.0
+James Garner,505219,Everton,Pivote,Everton FC,18000000.0
+Idrissa Gueye,126665,Everton,Pivote,Everton FC,1500000.0
+Luke Butterfield,652635,Everton,Pivote,Accrington Stanley,
+Carlos Alcaraz,748319,Everton,Mediocentro,Everton FC,14000000.0
+Tim Iroegbunam,696589,Everton,Mediocentro,Everton FC,9000000.0
+Harrison Armstrong,1107733,Everton,Mediocentro,Everton FC,800000.0
+Jenson Metcalfe,855890,Everton,Mediocentro,Bradford City,175000.0
+Callum Bates,1018716,Everton,Mediocentro,FC Everton U21,
+Abdoulaye Doucouré,127187,Everton,Mediocentro ofensivo,NEOM SC,7000000.0
+Owen Barker,796302,Everton,Mediocentro ofensivo,Bury FC,
+Dwight McNeil,584769,Everton,Extremo izquierdo,Everton FC,25000000.0
+Jack Harrison,417346,Everton,Extremo izquierdo,Fiorentina,14000000.0
+Isaac Heath,847579,Everton,Extremo izquierdo,Accrington Stanley,
+Coby Ebere,1018714,Everton,Extremo izquierdo,FC Everton U21,
+Iliman Ndiaye,623570,Everton,Extremo derecho,Everton FC,22000000.0
+Jesper Lindstrøm,513245,Everton,Extremo derecho,VfL Wolfsburgo,18000000.0
+Beto,595809,Everton,Delantero centro,Everton FC,22000000.0
+Dominic Calvert-Lewin,306024,Everton,Delantero centro,Leeds United,16000000.0
+Armando Broja,571743,Everton,Delantero centro,Burnley FC,12000000.0
+Neal Maupay,217115,Everton,Delantero centro,Sevilla FC,8000000.0
+Youssef Chermiti,670688,Everton,Delantero centro,Rangers FC,8000000.0
+Martin Sherif,922695,Everton,Delantero centro,Port Vale FC,
+Bernd Leno,72476,Fulham,Portero,Fulham FC,10000000.0
+Steven Benda,381469,Fulham,Portero,Feyenoord,1000000.0
+Joachim Andersen,260827,Fulham,Defensa central,Fulham FC,27000000.0
+Calvin Bassey,461883,Fulham,Defensa central,Fulham FC,25000000.0
+Issa Diop,272622,Fulham,Defensa central,Fulham FC,14000000.0
+Jorge Cuenca,494880,Fulham,Defensa central,Fulham FC,5000000.0
+Sam Amissah,1026524,Fulham,Defensa central,FC Fulham U21,
+Antonee Robinson,349701,Fulham,Lateral izquierdo,Fulham FC,35000000.0
+Ryan Sessegnon,392775,Fulham,Lateral izquierdo,Fulham FC,15000000.0
+Kenny Tete,206746,Fulham,Lateral derecho,Fulham FC,13000000.0
+Timothy Castagne,262226,Fulham,Lateral derecho,Fulham FC,13000000.0
+Sander Berge,333014,Fulham,Pivote,Fulham FC,25000000.0
+Andreas Pereira,203394,Fulham,Mediocentro,SE Palmeiras,18000000.0
+Saša Lukić,245056,Fulham,Mediocentro,Fulham FC,14000000.0
+Harrison Reed,226973,Fulham,Mediocentro,Fulham FC,6000000.0
+Tom Cairney,123275,Fulham,Mediocentro,Fulham FC,1500000.0
+Emile Smith Rowe,392765,Fulham,Mediocentro ofensivo,Fulham FC,30000000.0
+Josh King,1011131,Fulham,Mediocentro ofensivo,Fulham FC,1000000.0
+Alex Iwobi,242631,Fulham,Extremo izquierdo,Fulham FC,28000000.0
+Reiss Nelson,340325,Fulham,Extremo izquierdo,Brentford FC,16000000.0
+Willian,52769,Fulham,Extremo izquierdo,Grêmio Foot-Ball Porto Alegrense,750000.0
+Martial Godo,992686,Fulham,Extremo izquierdo,Racing Club de Estrasburgo,600000.0
+Harry Wilson,279455,Fulham,Extremo derecho,Fulham FC,15000000.0
+Adama Traoré,204103,Fulham,Extremo derecho,West Ham United,9000000.0
+Rodrigo Muniz,735571,Fulham,Delantero centro,Fulham FC,20000000.0
+Jay Stansfield,696346,Fulham,Delantero centro,Birmingham City,11000000.0
+Raúl Jiménez,206040,Fulham,Delantero centro,Fulham FC,5000000.0
+Carlos Vinícius,525287,Fulham,Delantero centro,Grêmio Foot-Ball Porto Alegrense,3500000.0
+José Sá,249994,Wolves,Portero,Wolverhampton Wanderers,7000000.0
+Sam Johnstone,110864,Wolves,Portero,Wolverhampton Wanderers,6000000.0
+Daniel Bentley,136401,Wolves,Portero,Wolverhampton Wanderers,1500000.0
+Tom King,215810,Wolves,Portero,Everton FC,200000.0
+Toti,606718,Wolves,Defensa central,Wolverhampton Wanderers,28000000.0
+Emmanuel Agbadou,683895,Wolves,Defensa central,Besiktas JK,20000000.0
+Santiago Bueno,438001,Wolves,Defensa central,Wolverhampton Wanderers,10000000.0
+Nasser Djiga,862297,Wolves,Defensa central,Rangers FC,10000000.0
+Yerson Mosquera,716276,Wolves,Defensa central,Wolverhampton Wanderers,8000000.0
+Bastien Meupiyou,955253,Wolves,Defensa central,FC Alverca,2500000.0
+Craig Dawson,121477,Wolves,Defensa central,Sin equipo,1500000.0
+Alfie Pond,821522,Wolves,Defensa central,Crewe Alexandra,250000.0
+Rayan Aït-Nouri,578391,Wolves,Lateral izquierdo,Manchester City,35000000.0
+Nélson Semedo,231572,Wolves,Lateral derecho,Fenerbahce,9000000.0
+Pedro Lima,1193867,Wolves,Lateral derecho,Wolverhampton Wanderers,5000000.0
+Matt Doherty,171679,Wolves,Lateral derecho,Wolverhampton Wanderers,2000000.0
+Wesley Okoduwa,1115502,Wolves,Lateral derecho,Wolverhampton Wanderers U21,
+André,800176,Wolves,Pivote,Wolverhampton Wanderers,28000000.0
+Mario Lemina,170934,Wolves,Pivote,Galatasaray,7500000.0
+Boubacar Traoré,649020,Wolves,Pivote,FC Metz,5000000.0
+Joe Hodge,503975,Wolves,Pivote,CD Tondela,1000000.0
+Luke Rawlings,1083691,Wolves,Pivote,Wolverhampton Wanderers U21,
+João Gomes,735570,Wolves,Mediocentro,Wolverhampton Wanderers,40000000.0
+Jean-Ricner Bellegarde,450050,Wolves,Mediocentro,Wolverhampton Wanderers,18000000.0
+Marshall Munetsi,414908,Wolves,Mediocentro,Paris FC,15000000.0
+Tommy Doyle,433183,Wolves,Mediocentro,Birmingham City,10000000.0
+Luke Cundle,532541,Wolves,Mediocentro,Millwall FC ,3200000.0
+Rodrigo Gomes,667121,Wolves,Interior izquierdo,Wolverhampton Wanderers,15000000.0
+Pablo Sarabia,74230,Wolves,Mediocentro ofensivo,Al-Arabi SC,5000000.0
+Tawanda Chirewa,724783,Wolves,Mediocentro ofensivo,Barnsley FC,500000.0
+Mateus Mané,1230661,Wolves,Mediocentro ofensivo,Wolverhampton Wanderers,200000.0
+Gonçalo Guedes,225122,Wolves,Extremo izquierdo,Real Sociedad,11000000.0
+Daniel Podence,256977,Wolves,Extremo izquierdo,Olympiacos El Pireo,5500000.0
+Enso González,1060740,Wolves,Extremo izquierdo,Wolverhampton Wanderers,4000000.0
+Chiquinho,695454,Wolves,Extremo izquierdo,FC Alverca,2000000.0
+Chem Campbell,614603,Wolves,Extremo izquierdo,FC Stevenage,900000.0
+Carlos Forbs,742451,Wolves,Extremo derecho,Club Brujas KV,8000000.0
+Tom Edozie,1065227,Wolves,Extremo derecho,Wolverhampton Wanderers U21,
+Matheus Cunha,517894,Wolves,Delantero centro,Manchester United,60000000.0
+Jørgen Strand Larsen,429983,Wolves,Delantero centro,Crystal Palace,30000000.0
+Hee-chan Hwang,292246,Wolves,Delantero centro,Wolverhampton Wanderers,12000000.0
+Sasa Kalajdzic,369567,Wolves,Delantero centro,LASK,4000000.0
+Leon Chiwome,1043634,Wolves,Delantero centro,Wolverhampton Wanderers U21,700000.0
+Nathan Fraser,863741,Wolves,Delantero centro,Wolverhampton Wanderers,600000.0
+Noah Falk,365096,Brentford,Portero,FC La Sarraz-Eclépens,
+Mateo Schütz,1056883,Brentford,Portero,FC Echallens Région II,
+Guillaume Montangero,1387978,Brentford,Portero,FC Echallens Région II,
+Adel Bouri,1140543,Brentford,Portero,FC Concordia Lausanne,
+Fabien Champion,1238003,Brentford,Defensa,FC Echallens Région,
+Ahmet Özcan,240356,Brentford,Defensa central,FC Echallens Région,
+Diego Mutombo,208145,Brentford,Defensa central,FC Echallens Région,
+Tristan Chavanne,443421,Brentford,Defensa central,FC Echallens Région,
+Diogo Dos Santos,365109,Brentford,Lateral izquierdo,FC Echallens Région,
+Valentin Carro,927481,Brentford,Lateral izquierdo,Lancy FC,
+Stephane Gomes,334647,Brentford,Lateral derecho,FC Echallens Région,
+Jordane Agodey,1188386,Brentford,Lateral derecho,FC Echallens Région,
+Lucas Longchamp,1262832,Brentford,Centrocampista,FC Echallens Région Juvenil,
+André Filipe Ribeiro Moreira,1267376,Brentford,Centrocampista,FC Echallens Région II,
+David Kilinc,149464,Brentford,Mediocentro,ES Malley,
+Lucas Valle,792062,Brentford,Mediocentro,FC Echallens Région,
+Arnaud Morard,538636,Brentford,Mediocentro,FC Echallens Région,
+Nathan Jaton,431507,Brentford,Mediocentro,FC Echallens Région,
+Yanis Arezki,1060690,Brentford,Mediocentro,FC Stade-Payerne,
+Killian Pellet,1308632,Brentford,Mediocentro,FC Concordia Lausanne,
+Eric Jorge,679218,Brentford,Mediocentro,FC Echallens Région,
+Aziz Demiri,149134,Brentford,Mediocentro ofensivo,ES Malley,
+Jonathan Lima,370390,Brentford,Extremo izquierdo,FC Echallens Région,
+Gonçalo Ferreira,312064,Brentford,Extremo izquierdo,FC La Sarraz-Eclépens,
+Danilo Ianigro,389103,Brentford,Extremo derecho,FC Echallens Région,
+Hugo Lopez,1042978,Brentford,Extremo derecho,FC Echallens Région,
+Boris Fawoubo,940821,Brentford,Extremo derecho,FC Amical Saint-Prex,
+Quentin Rushenguziminega,147117,Brentford,Delantero centro,FC Concordia Lausanne,
+Mileno Ribeiro,426889,Brentford,Delantero centro,FC Lutry,
+Tyron Ali Bin,1145760,Brentford,Delantero,Team AFF/FFV Fribourg U17,
+Matej Kovar,550829,Bayer Leverkusen,Portero,PSV Eindhoven,5000000.0
+Lukas Hradecky,48015,Bayer Leverkusen,Portero,AS Mónaco,2000000.0
+Niklas Lomb,85543,Bayer Leverkusen,Portero,Bayer 04 Leverkusen,250000.0
+Simeon Rapsch,1260765,Bayer Leverkusen,Portero,Bayer 04 Leverkusen U19,
+Luca Novodomsky,810826,Bayer Leverkusen,Portero,TSV Solingen,
+Piero Hincapié,659813,Bayer Leverkusen,Defensa central,Arsenal FC,50000000.0
+Edmond Tapsoba,564545,Bayer Leverkusen,Defensa central,Bayer 04 Leverkusen,35000000.0
+Jonathan Tah,196357,Bayer Leverkusen,Defensa central,Bayern Múnich,30000000.0
+Odilon Kossounou,644771,Bayer Leverkusen,Defensa central,Atalanta de Bérgamo,25000000.0
+Jeanuël Belocian,919515,Bayer Leverkusen,Defensa central,VfL Wolfsburgo,15000000.0
+Mario Hermoso,281769,Bayer Leverkusen,Defensa central,AS Roma,7000000.0
+Andrea Natali,1058353,Bayer Leverkusen,Defensa central,AZ Alkmaar U21,
+Ben Hawighorst,1131921,Bayer Leverkusen,Defensa central,Bayer 04 Leverkusen U19,
+Alejandro Grimaldo,193082,Bayer Leverkusen,Lateral izquierdo,Bayer 04 Leverkusen,30000000.0
+Jeremie Frimpong,484547,Bayer Leverkusen,Lateral derecho,Liverpool FC,50000000.0
+Nordi Mukiele,348026,Bayer Leverkusen,Lateral derecho,Sunderland AFC,10000000.0
+Arthur,977464,Bayer Leverkusen,Lateral derecho,Bayer 04 Leverkusen,7000000.0
+Othniël Raterink,997478,Bayer Leverkusen,Lateral derecho,Cagliari,
+Granit Xhaka,111455,Bayer Leverkusen,Pivote,Sunderland AFC,12000000.0
+Robert Andrich,159088,Bayer Leverkusen,Pivote,Bayer 04 Leverkusen,9000000.0
+Exequiel Palacios,401578,Bayer Leverkusen,Mediocentro,Bayer 04 Leverkusen,40000000.0
+Aleix García,261504,Bayer Leverkusen,Mediocentro,Bayer 04 Leverkusen,20000000.0
+Florian Wirtz,598577,Bayer Leverkusen,Mediocentro ofensivo,Liverpool FC,140000000.0
+Emiliano Buendía,321247,Bayer Leverkusen,Mediocentro ofensivo,Aston Villa,15000000.0
+Jonas Hofmann,7161,Bayer Leverkusen,Mediocentro ofensivo,Bayer 04 Leverkusen,2000000.0
+Francis Onyeka,929943,Bayer Leverkusen,Mediocentro ofensivo,VfL Bochum,500000.0
+Amine Adli,532776,Bayer Leverkusen,Extremo izquierdo,AFC Bournemouth,18000000.0
+Martin Terrier,442891,Bayer Leverkusen,Extremo izquierdo,Bayer 04 Leverkusen,17000000.0
+Kerim Alajbegovic,929994,Bayer Leverkusen,Extremo izquierdo,Red Bull Salzburgo,
+Nathan Tella,340322,Bayer Leverkusen,Extremo derecho,Bayer 04 Leverkusen,15000000.0
+Victor Boniface,656681,Bayer Leverkusen,Delantero centro,SV Werder Bremen,40000000.0
+Patrik Schick,242086,Bayer Leverkusen,Delantero centro,Bayer 04 Leverkusen,27000000.0
+Artem Stepanov,1045344,Bayer Leverkusen,Delantero centro,FC Utrecht,800000.0
+Alejo Sarco,1000675,Bayer Leverkusen,Delantero centro,Borussia Mönchengladbach,800000.0
+Maarten Vandevoordt,486046,RB Leipzig,Portero,RB Leipzig,8000000.0
+Péter Gulácsi,57071,RB Leipzig,Portero,RB Leipzig,2000000.0
+Leopold Zingerle,160971,RB Leipzig,Portero,RB Leipzig,400000.0
+Fernando Dickes,1048715,RB Leipzig,Portero,Hamburgo SV,
+Castello Lukeba,618472,RB Leipzig,Defensa central,RB Leipzig,40000000.0
+Mohamed Simakan,666234,RB Leipzig,Defensa central,Al-Nassr FC,23000000.0
+El Chadaille Bitshiabu,787912,RB Leipzig,Defensa central,RB Leipzig,18000000.0
+Willi Orbán,93740,RB Leipzig,Defensa central,RB Leipzig,8000000.0
+Lukas Klostermann,215599,RB Leipzig,Defensa central,RB Leipzig,8000000.0
+Jonathan Norbye,1006916,RB Leipzig,Defensa central,Fredrikstad FK,
+David Raum,318204,RB Leipzig,Lateral izquierdo,RB Leipzig,20000000.0
+Lionel Voufack,1125077,RB Leipzig,Lateral izquierdo,RB Leipzig U19,
+Lutsharel Geertruida,420210,RB Leipzig,Lateral derecho,Sunderland AFC,20000000.0
+Benjamin Henrichs,202591,RB Leipzig,Lateral derecho,RB Leipzig,15000000.0
+Kosta Nedeljkovic,848682,RB Leipzig,Lateral derecho,RB Leipzig,10000000.0
+Ridle Baku,327251,RB Leipzig,Lateral derecho,RB Leipzig,9000000.0
+Leon Koß,974597,RB Leipzig,Lateral derecho,SC Freiburg II,
+Arthur Vermeeren,926694,RB Leipzig,Pivote,Olympique de Marsella,22000000.0
+Nicolas Seiwald,404950,RB Leipzig,Pivote,RB Leipzig,18000000.0
+Amadou Haidara,402008,RB Leipzig,Mediocentro,RC Lens,16000000.0
+Xaver Schlager,223979,RB Leipzig,Mediocentro,RB Leipzig,10000000.0
+Assan Ouédraogo,897424,RB Leipzig,Mediocentro,RB Leipzig,7000000.0
+Kevin Kampl,53418,RB Leipzig,Mediocentro,Retirado,2500000.0
+Mika Walther,1153314,RB Leipzig,Mediocentro,RB Leipzig U19,
+Xavi Simons,566931,RB Leipzig,Mediocentro ofensivo,Tottenham Hotspur,70000000.0
+Eljif Elmas,400489,RB Leipzig,Mediocentro ofensivo,SSC Nápoles,14000000.0
+Christoph Baumgartner,324278,RB Leipzig,Mediocentro ofensivo,RB Leipzig,12000000.0
+Viggo Gebel,1074526,RB Leipzig,Mediocentro ofensivo,RB Leipzig U19,350000.0
+Nuha Jatta,974561,RB Leipzig,Mediocentro ofensivo,VfB Stuttgart II,250000.0
+Antonio Nusa,894914,RB Leipzig,Extremo izquierdo,RB Leipzig,28000000.0
+Tidiam Gomis,955448,RB Leipzig,Extremo izquierdo,RB Leipzig,3000000.0
+Faik Sakar,1132292,RB Leipzig,Extremo izquierdo,RB Leipzig U19,200000.0
+Benjamin Sesko,627442,RB Leipzig,Delantero centro,Manchester United,70000000.0
+Loïs Openda,368887,RB Leipzig,Delantero centro,Juventus de Turín,50000000.0
+Yussuf Poulsen,157635,RB Leipzig,Delantero centro,Hamburgo SV,5000000.0
+André Silva,198008,RB Leipzig,Delantero centro,Elche CF,4000000.0
+Robert Ramsak,941177,RB Leipzig,Delantero centro,SV Sandhausen,
+Kevin Trapp,45672,Eintracht Frankfurt,Portero,Paris FC,2500000.0
+Kauã Santos,997861,Eintracht Frankfurt,Portero,Eintracht Fráncfort​​,2500000.0
+Nils Ramming,1145455,Eintracht Frankfurt,Portero,Brighton & Hove Albion U21,300000.0
+Jens Grahl,40034,Eintracht Frankfurt,Portero,Eintracht Fráncfort​​,200000.0
+Yurij Obert,917042,Eintracht Frankfurt,Portero,Eintracht Frankfurt II,50000.0
+Amil Siljevic,1079622,Eintracht Frankfurt,Portero,Eintracht Fráncfort​​,
+Arthur Theate,368891,Eintracht Frankfurt,Defensa central,Eintracht Fráncfort​​,24000000.0
+Robin Koch,328784,Eintracht Frankfurt,Defensa central,Eintracht Fráncfort​​,18000000.0
+Tuta,546213,Eintracht Frankfurt,Defensa central,Al-Duhail SC,15000000.0
+Nnamdi Collins,684315,Eintracht Frankfurt,Defensa central,Eintracht Fráncfort​​,10000000.0
+Aurèle Amenda,635645,Eintracht Frankfurt,Defensa central,Eintracht Fráncfort​​,7500000.0
+Nathaniel Brown,691892,Eintracht Frankfurt,Lateral izquierdo,Eintracht Fráncfort​​,22000000.0
+Niels Nkounkou,591193,Eintracht Frankfurt,Lateral izquierdo,Torino FC,3500000.0
+Rasmus Kristensen,369684,Eintracht Frankfurt,Lateral derecho,Eintracht Fráncfort​​,14000000.0
+Timothy Chandler,49723,Eintracht Frankfurt,Lateral derecho,Eintracht Fráncfort​​,350000.0
+Ellyes Skhiri,290587,Eintracht Frankfurt,Pivote,Eintracht Fráncfort​​,7500000.0
+Eba Bekir Is,1154106,Eintracht Frankfurt,Pivote,Eintracht Frankfurt II,500000.0
+Noah Fenyő,951957,Eintracht Frankfurt,Pivote,Újpest FC,350000.0
+Hugo Larsson,931838,Eintracht Frankfurt,Mediocentro,Eintracht Fráncfort​​,40000000.0
+Oscar Højlund,846310,Eintracht Frankfurt,Mediocentro,Eintracht Fráncfort​​,7500000.0
+Mahmoud Dahoud,191422,Eintracht Frankfurt,Mediocentro,Eintracht Fráncfort​​,3500000.0
+Junior Dina Ebimbe,536482,Eintracht Frankfurt,Interior derecho,Stade Brestois 29,6000000.0
+Can Uzun,816585,Eintracht Frankfurt,Mediocentro ofensivo,Eintracht Fráncfort​​,18000000.0
+Farès Chaïbi,855015,Eintracht Frankfurt,Mediocentro ofensivo,Eintracht Fráncfort​​,9000000.0
+Mario Götze,74842,Eintracht Frankfurt,Mediocentro ofensivo,Eintracht Fráncfort​​,4000000.0
+Krisztián Lisztes,933217,Eintracht Frankfurt,Mediocentro ofensivo,Ferencváros TC,2000000.0
+Jean-Mattéo Bahoya,939964,Eintracht Frankfurt,Extremo izquierdo,Eintracht Fráncfort​​,17000000.0
+Ansgar Knauff,429874,Eintracht Frankfurt,Extremo derecho,Eintracht Fráncfort​​,15000000.0
+Omar Marmoush,445939,Eintracht Frankfurt,Delantero centro,Manchester City,75000000.0
+Hugo Ekitiké,709726,Eintracht Frankfurt,Delantero centro,Liverpool FC,75000000.0
+Elye Wahi,659542,Eintracht Frankfurt,Delantero centro,OGC Niza,22000000.0
+Igor Matanovic,605268,Eintracht Frankfurt,Delantero centro,SC Friburgo,5000000.0
+Michy Batshuayi,179184,Eintracht Frankfurt,Delantero centro,Eintracht Fráncfort​​,4000000.0
+Alexander Nübel,195778,Stuttgart,Portero,VfB Stuttgart,12000000.0
+Dennis Seimen,800946,Stuttgart,Portero,SC Paderborn 07,2500000.0
+Fabian Bredlow,187624,Stuttgart,Portero,VfB Stuttgart,800000.0
+Stefan Drljaca,388067,Stuttgart,Portero,VfB Stuttgart,325000.0
+Finn Jeltsch,924117,Stuttgart,Defensa central,VfB Stuttgart,20000000.0
+Jeff Chabot,303219,Stuttgart,Defensa central,VfB Stuttgart,12000000.0
+Anthony Rouault,690799,Stuttgart,Defensa central,Stade Rennais FC,10000000.0
+Ameen Al-Dakhil,620598,Stuttgart,Defensa central,VfB Stuttgart,7500000.0
+Luca Jaquez,539798,Stuttgart,Defensa central,VfB Stuttgart,6000000.0
+Ramon Hendriks,436064,Stuttgart,Defensa central,VfB Stuttgart,5000000.0
+Anrie Chase,948537,Stuttgart,Defensa central,Red Bull Salzburgo,3000000.0
+Dan-Axel Zagadou,344598,Stuttgart,Defensa central,VfB Stuttgart,2000000.0
+Maximilian Mittelstädt,282660,Stuttgart,Lateral izquierdo,VfB Stuttgart,20000000.0
+Frans Krätzig,604320,Stuttgart,Lateral izquierdo,Red Bull Salzburgo,3500000.0
+Josha Vagnoman,448258,Stuttgart,Lateral derecho,VfB Stuttgart,10000000.0
+Leonidas Stergiou,507345,Stuttgart,Lateral derecho,1.FC Heidenheim 1846,5000000.0
+Pascal Stenzel,195246,Stuttgart,Lateral derecho,VfB Stuttgart,2000000.0
+Christopher Olivier,842217,Stuttgart,Lateral derecho,VfB Stuttgart II,500000.0
+Angelo Stiller,443710,Stuttgart,Pivote,VfB Stuttgart,45000000.0
+Atakan Karazor,232320,Stuttgart,Pivote,VfB Stuttgart,12000000.0
+Yannik Keitel,342039,Stuttgart,Pivote,FC Augsburgo,3500000.0
+Nikolas Nartey,400546,Stuttgart,Mediocentro,VfB Stuttgart,400000.0
+Enzo Millot,569366,Stuttgart,Mediocentro ofensivo,Al-Ahli SFC,35000000.0
+Fabian Rieder,507341,Stuttgart,Mediocentro ofensivo,FC Augsburgo,6000000.0
+El Bilal Touré,649016,Stuttgart,Extremo izquierdo,Besiktas JK,15000000.0
+Chris Führich,272278,Stuttgart,Extremo izquierdo,VfB Stuttgart,15000000.0
+Jacob Bruun Larsen,293281,Stuttgart,Extremo izquierdo,Burnley FC,5000000.0
+Justin Diehl,720162,Stuttgart,Extremo izquierdo,VfB Stuttgart,3000000.0
+Jarzinho Malanga,1031774,Stuttgart,Extremo izquierdo,SV 07 Elversberg,1700000.0
+Benjamin Boakye,800988,Stuttgart,Extremo izquierdo,Arminia Bielefeld,500000.0
+Jamie Leweling,518505,Stuttgart,Extremo derecho,VfB Stuttgart,20000000.0
+Silas,612826,Stuttgart,Extremo derecho,1.FSV Mainz 05,7000000.0
+Luca Raimund,907489,Stuttgart,Extremo derecho,Fortuna Düsseldorf,400000.0
+Nick Woltemade,455661,Stuttgart,Delantero centro,Newcastle United,30000000.0
+Ermedin Demirovic,335457,Stuttgart,Delantero centro,VfB Stuttgart,22000000.0
+Deniz Undav,339314,Stuttgart,Delantero centro,VfB Stuttgart,20000000.0
+Wahid Faghir,610431,Stuttgart,Delantero centro,Vejle Boldklub,700000.0
+Eliot Bujupi,907483,Stuttgart,Delantero centro,KVC Westerlo,500000.0
+Thomas Kastanaras,675565,Stuttgart,Delantero centro,FC Augsburgo,400000.0
+Kamil Grabara,346551,Wolfsburg,Portero,VfL Wolfsburgo,14000000.0
+Marius Müller,118161,Wolfsburg,Portero,VfL Wolfsburgo,1500000.0
+Pavao Pervan,51977,Wolfsburg,Portero,VfL Wolfsburgo,300000.0
+Niklas Klinger,192268,Wolfsburg,Portero,SV Blau-Weiß Rühen,100000.0
+Maxence Lacroix,434224,Wolfsburg,Defensa central,Crystal Palace,25000000.0
+Konstantinos Koulierakis,669380,Wolfsburg,Defensa central,VfL Wolfsburgo,25000000.0
+Cédric Zesiger,382478,Wolfsburg,Defensa central,FC Augsburgo,7000000.0
+Denis Vavro,239962,Wolfsburg,Defensa central,VfL Wolfsburgo,7000000.0
+Sebastiaan Bornauw,338629,Wolfsburg,Defensa central,Leeds United,6000000.0
+Moritz Jenz,460245,Wolfsburg,Defensa central,VfL Wolfsburgo,5000000.0
+David Odogu,897423,Wolfsburg,Defensa central,AC Milan,1500000.0
+Mathys Angély,1075579,Wolfsburg,Defensa central,RSC Anderlecht,600000.0
+Till Neininger,1070022,Wolfsburg,Defensa central,VfL Wolfsburg U19,
+Joakim Maehle,369674,Wolfsburg,Lateral izquierdo,VfL Wolfsburgo,14000000.0
+Nicolas Cozza,485965,Wolfsburg,Lateral izquierdo,FC Nantes,3500000.0
+Rogério,401527,Wolfsburg,Lateral izquierdo,VfL Wolfsburgo,2500000.0
+Ridle Baku,327251,Wolfsburg,Lateral derecho,RB Leipzig,9000000.0
+Kilian Fischer,435796,Wolfsburg,Lateral derecho,VfL Wolfsburgo,6000000.0
+Mads Roerslev,391005,Wolfsburg,Lateral derecho,Southampton FC,6000000.0
+Jan Bürger,1009440,Wolfsburg,Lateral derecho,VfL Wolfsburgo,
+Salih Özcan,244940,Wolfsburg,Pivote,Borussia Dortmund,4000000.0
+Mattias Svanberg,342405,Wolfsburg,Mediocentro,VfL Wolfsburgo,12000000.0
+Aster Vranckx,503881,Wolfsburg,Mediocentro,US Sassuolo,7000000.0
+Maximilian Arnold,117674,Wolfsburg,Mediocentro,VfL Wolfsburgo,5000000.0
+Yannick Gerhardt,119277,Wolfsburg,Mediocentro,VfL Wolfsburgo,2500000.0
+Kevin Paredes,711517,Wolfsburg,Interior izquierdo,VfL Wolfsburgo,7500000.0
+Lovro Majer,387106,Wolfsburg,Mediocentro ofensivo,VfL Wolfsburgo,17000000.0
+Bence Dárdai,789252,Wolfsburg,Mediocentro ofensivo,VfL Wolfsburgo,12000000.0
+Jakub Kamiński,407098,Wolfsburg,Extremo izquierdo,FC Colonia,5000000.0
+Patrick Wimmer,533295,Wolfsburg,Extremo derecho,VfL Wolfsburgo,15000000.0
+Andreas Skov Olsen,432982,Wolfsburg,Extremo derecho,Rangers FC,14000000.0
+Bennit Bröger,897479,Wolfsburg,Extremo derecho,SC Paderborn 07,500000.0
+Mohamed Amoura,746910,Wolfsburg,Delantero centro,VfL Wolfsburgo,32000000.0
+Tiago Tomás,616344,Wolfsburg,Delantero centro,VfB Stuttgart,12000000.0
+Jonas Wind,391004,Wolfsburg,Delantero centro,VfL Wolfsburgo,12000000.0
+Lukas Nmecha,314288,Wolfsburg,Delantero centro,Leeds United,3000000.0
+Kevin Behrens,117432,Wolfsburg,Delantero centro,FC Lugano,1000000.0
+Bartosz Bialek,535551,Wolfsburg,Delantero centro,SV Darmstadt 98,800000.0
+Jonathan Akaegbobi,905404,Wolfsburg,Delantero centro,VfL Bochum II,
+Marcel Lotka,453737,Freiburg,Portero,Fortuna Düsseldorf,800000.0
+Silas Ostrzinski,684116,Freiburg,Portero,Borussia Dortmund,200000.0
+Tiago Estêvão,541836,Freiburg,Portero,SKU Amstetten,75000.0
+Leon Klußmann,387708,Freiburg,Portero,Sin equipo,
+Robin Lisewski,884818,Freiburg,Portero,1. FC Núremberg​,
+Filippo Mane,883007,Freiburg,Defensa central,Borussia Dortmund,600000.0
+Yannik Lührs,627356,Freiburg,Defensa central,TSG 1899 Hoffenheim II,600000.0
+Ben Hüning,922877,Freiburg,Defensa central,Rot-Weiss Essen,300000.0
+David Lelle,574199,Freiburg,Defensa central,Aris Limassol,200000.0
+Felix Irorere,472224,Freiburg,Defensa central,Sin equipo,100000.0
+Elias Benkara,931668,Freiburg,Defensa central,Borussia Dortmund II,
+Almugera Kabar,884820,Freiburg,Lateral izquierdo,Borussia Dortmund,1000000.0
+Guille Bueno,854079,Freiburg,Lateral izquierdo,Real Valladolid CF,800000.0
+Prince Aning,646701,Freiburg,Lateral izquierdo,Borussia Dortmund II,300000.0
+Niklas Jessen,574197,Freiburg,Lateral derecho,MSV Duisburg,225000.0
+Patrick Göbel,94116,Freiburg,Lateral derecho,Borussia Dortmund II,200000.0
+Danylo Krevsun,935019,Freiburg,Lateral derecho,Borussia Dortmund II,200000.0
+Abdoulaye Kamara,718232,Freiburg,Pivote,1.FC Saarbrücken,700000.0
+Ayman Azhil,452068,Freiburg,Pivote,Borussia Dortmund II,700000.0
+Tony Reitz,815237,Freiburg,Pivote,Borussia Dortmund II,200000.0
+Felix Paschke,690147,Freiburg,Pivote,Borussia Dortmund II,175000.0
+Leonardo Posadas,815798,Freiburg,Pivote,Hamburgo II,100000.0
+Mussa Kaba,1141179,Freiburg,Pivote,Borussia Dortmund II,
+Kjell Wätjen,884810,Freiburg,Mediocentro,VfL Bochum,2500000.0
+Franz Roggow,567974,Freiburg,Mediocentro,Hannover 96,700000.0
+Nick Cherny,990883,Freiburg,Mediocentro,Borussia Dortmund II,
+Baran Moğultay,922892,Freiburg,Interior izquierdo,Alanyaspor,275000.0
+Antonio Foti,615036,Freiburg,Mediocentro ofensivo,SC Verl,400000.0
+Michael Eberwein,195049,Freiburg,Mediocentro ofensivo,Borussia Dortmund II,300000.0
+Julien Duranville,819215,Freiburg,Extremo izquierdo,FC Basilea,8500000.0
+Ousmane Diallo,962149,Freiburg,Extremo izquierdo,Borussia Dortmund II,1500000.0
+Julian Hettwer,675509,Freiburg,Extremo izquierdo,Fortuna Düsseldorf,1300000.0
+Rodney Elongo-Yombo,662808,Freiburg,Extremo izquierdo,1.FC Saarbrücken,400000.0
+Cole Campbell,866579,Freiburg,Extremo derecho,TSG 1899 Hoffenheim,1500000.0
+Babis Drakas,675612,Freiburg,Extremo derecho,Borussia Dortmund II,200000.0
+Justin Butler,453861,Freiburg,Extremo derecho,FC Energie Cottbus,150000.0
+Jordi Paulina,1045762,Freiburg,Delantero centro,Fortuna Düsseldorf,250000.0
+Paul-Philipp Besong,453783,Freiburg,Delantero centro,Sportfreunde Siegen,225000.0
+Oliver Baumann,55089,Hoffenheim,Portero,TSG 1899 Hoffenheim,3000000.0
+Luca Philipp,432671,Hoffenheim,Portero,TSG 1899 Hoffenheim,750000.0
+Jakob Busk,203411,Hoffenheim,Portero,FC Nordsjælland,250000.0
+Lúkas Petersson,718460,Hoffenheim,Portero,TSG 1899 Hoffenheim,250000.0
+Benjamin Lade,896350,Hoffenheim,Portero,TSG 1899 Hoffenheim II,
+Tim Philipp,923606,Hoffenheim,Portero,TSG 1899 Hoffenheim II,
+Leo Østigård,367284,Hoffenheim,Defensa central,Génova,10000000.0
+Ozan Kabak,361260,Hoffenheim,Defensa central,TSG 1899 Hoffenheim,5000000.0
+Arthur Chaves,875332,Hoffenheim,Defensa central,FC Augsburgo,5000000.0
+Robin Hranac,620217,Hoffenheim,Defensa central,TSG 1899 Hoffenheim,3500000.0
+Tim Drexler,822958,Hoffenheim,Defensa central,Red Bull Salzburgo,3000000.0
+Kevin Akpoguma,160241,Hoffenheim,Defensa central,TSG 1899 Hoffenheim,2500000.0
+Stanley Nsoki,371141,Hoffenheim,Defensa central,1.FC Unión Berlín,2500000.0
+Attila Szalai,263380,Hoffenheim,Defensa central,Pogon Szczecin,1700000.0
+Noah König,685487,Hoffenheim,Defensa central,SpVgg Greuther Fürth,250000.0
+David Jurásek,500054,Hoffenheim,Lateral izquierdo,SK Slavia Praga,5000000.0
+Hennes Behrens,829838,Hoffenheim,Lateral izquierdo,1.FC Heidenheim 1846,350000.0
+Valentin Gendrey,569387,Hoffenheim,Lateral derecho,TSG 1899 Hoffenheim,7000000.0
+Luca Erlein,1009442,Hoffenheim,Lateral derecho,TSG 1899 Hoffenheim II,300000.0
+Lars Strobl,923608,Hoffenheim,Lateral derecho,TSG 1899 Hoffenheim II,25000.0
+Anton Stach,344069,Hoffenheim,Pivote,Leeds United,14000000.0
+Florian Grillitsch,195736,Hoffenheim,Pivote,SC Braga,2000000.0
+Diadié Samassékou,315604,Hoffenheim,Pivote,Houston Dynamo FC,1000000.0
+Tom Bischof,822959,Hoffenheim,Mediocentro,Bayern Múnich,30000000.0
+Umut Tohumcu,569031,Hoffenheim,Mediocentro,Holstein Kiel,6000000.0
+Grischa Prömel,234029,Hoffenheim,Mediocentro,TSG 1899 Hoffenheim,3000000.0
+Dennis Geiger,251309,Hoffenheim,Mediocentro,Aberdeen FC,2000000.0
+Finn Becker,334999,Hoffenheim,Mediocentro,1. FC Núremberg​,2000000.0
+Luka Duric,685484,Hoffenheim,Mediocentro,TSG 1899 Hoffenheim,250000.0
+Pavel Kaderabek,143798,Hoffenheim,Interior derecho,AC Sparta Praga,1700000.0
+Alexander Prass,434116,Hoffenheim,Interior izquierdo,TSG 1899 Hoffenheim,5000000.0
+Christopher Lenz,159844,Hoffenheim,Interior izquierdo,Fortuna Düsseldorf,500000.0
+Andrej Kramaric,46580,Hoffenheim,Mediocentro ofensivo,TSG 1899 Hoffenheim,4000000.0
+Julian Justvan,324861,Hoffenheim,Mediocentro ofensivo,1. FC Núremberg​,2200000.0
+Florian Micheler,808664,Hoffenheim,Mediocentro ofensivo,TSG 1899 Hoffenheim II,500000.0
+Bazoumana Touré,1067904,Hoffenheim,Extremo izquierdo,TSG 1899 Hoffenheim,9000000.0
+Jacob Bruun Larsen,293281,Hoffenheim,Extremo izquierdo,Burnley FC,5000000.0
+Marius Bülter,116088,Hoffenheim,Extremo izquierdo,FC Colonia,2500000.0
+Paul Hennrich,810108,Hoffenheim,Extremo izquierdo,TSG 1899 Hoffenheim II,400000.0
+Adam Hlozek,552057,Hoffenheim,Delantero centro,TSG 1899 Hoffenheim,18000000.0
+Gift Orban,1018259,Hoffenheim,Delantero centro,Hellas Verona,10000000.0
+Max Moerstedt,923595,Hoffenheim,Delantero centro,TSG 1899 Hoffenheim,7000000.0
+Mergim Berisha,307924,Hoffenheim,Delantero centro,1.FC Kaiserslautern,3500000.0
+Haris Tabakovic,203123,Hoffenheim,Delantero centro,Borussia Mönchengladbach,2500000.0
+Erencan Yardımcı,618898,Hoffenheim,Delantero centro,Eintracht Braunschweig,2500000.0
+Ihlas Bebou,237164,Hoffenheim,Delantero centro,TSG 1899 Hoffenheim,1000000.0
+David Mokwa,974894,Hoffenheim,Delantero centro,SV 07 Elversberg,1000000.0
+Simon Kalambayi,997566,Hoffenheim,Delantero centro,Sin equipo,175000.0
+Mile Svilar,338670,Roma,Portero,AS Roma,25000000.0
+Mathew Ryan,128969,Roma,Portero,Levante UD,2500000.0
+Pierluigi Gollini,244192,Roma,Portero,AS Roma,1000000.0
+Renato Marin,1041614,Roma,Portero,París Saint-Germain FC,500000.0
+Giorgio De Marzi,942004,Roma,Portero,Roma Juvenil 20,
+Alessio Marcaccini,1058347,Roma,Portero,Roma Juvenil 20,
+Evan Ndicka,371149,Roma,Defensa central,AS Roma,30000000.0
+Gianluca Mancini,256448,Roma,Defensa central,AS Roma,15000000.0
+Victor Nelsson,422951,Roma,Defensa central,Hellas Verona,10000000.0
+Mario Hermoso,281769,Roma,Defensa central,AS Roma,7000000.0
+Mats Hummels,39728,Roma,Defensa central,Retirado,2000000.0
+Chris Smalling,103427,Roma,Defensa central,Al-Fayha FC,1500000.0
+Federico Nardin,1175301,Roma,Defensa central,Roma Juvenil 20,
+Angeliño,277179,Roma,Lateral izquierdo,AS Roma,20000000.0
+Anass Salah-Eddine,485584,Roma,Lateral izquierdo,PSV Eindhoven,8000000.0
+Samuel Dahl,605396,Roma,Lateral izquierdo,SL Benfica,7000000.0
+Devyne Rensch,557407,Roma,Lateral derecho,AS Roma,10000000.0
+Zeki Çelik,251075,Roma,Lateral derecho,AS Roma,6000000.0
+Saud Abdulhamid,631927,Roma,Lateral derecho,RC Lens,3000000.0
+Buba Sangaré,962125,Roma,Lateral derecho,Elche CF,1000000.0
+Lucas Gourna-Douath,620313,Roma,Pivote,Le Havre AC,8000000.0
+Bryan Cristante,199248,Roma,Pivote,AS Roma,7000000.0
+Leandro Paredes,166237,Roma,Pivote,CA Boca Juniors,5000000.0
+Alessandro Romano,911224,Roma,Pivote,Spezia,500000.0
+Manu Koné,624690,Roma,Mediocentro,AS Roma,40000000.0
+Enzo Le Fée,633992,Roma,Mediocentro,Sunderland AFC,18000000.0
+Niccolò Pisilli,813137,Roma,Mediocentro,AS Roma,13000000.0
+Edoardo Bove,562049,Roma,Mediocentro,Watford FC,5000000.0
+Alexis Saelemaekers,381950,Roma,Interior derecho,AC Milan,17000000.0
+Nicola Zalewski,550108,Roma,Interior izquierdo,Atalanta de Bérgamo,12000000.0
+Tommaso Baldanzi,641537,Roma,Mediocentro ofensivo,Génova,12000000.0
+Lorenzo Pellegrini,286297,Roma,Mediocentro ofensivo,AS Roma,9000000.0
+Stephan El Shaarawy,94529,Roma,Extremo izquierdo,AS Roma,3500000.0
+Matías Soulé,668951,Roma,Extremo derecho,AS Roma,30000000.0
+João Costa,936536,Roma,Extremo derecho,Al-Ettifaq FC,2800000.0
+Paulo Dybala,206050,Roma,Mediapunta,AS Roma,8000000.0
+Artem Dovbyk,343537,Roma,Delantero centro,AS Roma,30000000.0
+Tammy Abraham,331726,Roma,Delantero centro,Aston Villa,15000000.0
+Eldor Shomurodov,358166,Roma,Delantero centro,Basaksehir FK,5000000.0
+Christos Mandas,481675,Lazio,Portero,AFC Bournemouth,10000000.0
+Ivan Provedel,197929,Lazio,Portero,SS Lazio,3000000.0
+Davide Renzetti,918957,Lazio,Portero,AC Bra,100000.0
+Alessio Furlanetto,538079,Lazio,Portero,SS Lazio,50000.0
+Mario Gila,618341,Lazio,Defensa central,SS Lazio,30000000.0
+Alessio Romagnoli,197747,Lazio,Defensa central,SS Lazio,7000000.0
+Nicolò Casale,389837,Lazio,Defensa central,Bolonia,6000000.0
+Oliver Provstgaard,644408,Lazio,Defensa central,SS Lazio,3500000.0
+Samuel Gigot,276896,Lazio,Defensa central,SS Lazio,3000000.0
+Patric,126729,Lazio,Defensa central,SS Lazio,2500000.0
+Filipe Bordon,1110645,Lazio,Defensa central,FC Südtirol,800000.0
+Matteo Zazza,929743,Lazio,Defensa central,ASD Team Altamura,375000.0
+Nuno Tavares,535955,Lazio,Lateral izquierdo,SS Lazio,25000000.0
+Luca Pellegrini,346567,Lazio,Lateral izquierdo,SS Lazio,3000000.0
+Alessandro Milani,883058,Lazio,Lateral izquierdo,US Avellino 1912,250000.0
+Manuel Lazzari,331401,Lazio,Lateral derecho,SS Lazio,3500000.0
+Adam Marusic,239802,Lazio,Lateral derecho,SS Lazio,3500000.0
+Elseid Hysaj,200056,Lazio,Lateral derecho,SS Lazio,1500000.0
+Nicolò Rovella,525704,Lazio,Pivote,SS Lazio,30000000.0
+Reda Belahyane,982855,Lazio,Pivote,SS Lazio,10000000.0
+Danilo Cataldi,199733,Lazio,Pivote,SS Lazio,3500000.0
+Marco Nazzaro,929742,Lazio,Pivote,ASD Team Altamura,125000.0
+Mattéo Guendouzi,465830,Lazio,Mediocentro,Fenerbahce,32000000.0
+Fisayo Dele-Bashiru,530742,Lazio,Mediocentro,SS Lazio,7500000.0
+Matías Vecino,143812,Lazio,Mediocentro,RC Celta de Vigo,2000000.0
+Gaetano Castrovilli,303116,Lazio,Mediocentro,Cesena FC,1500000.0
+Toma Bašić,334835,Lazio,Mediocentro,SS Lazio,800000.0
+Jean-Daniel Akpa Akpro,170481,Lazio,Mediocentro,Hellas Verona,500000.0
+Cristo Muñoz,834468,Lazio,Mediocentro,Lazio Roma Primavera,250000.0
+Leonardo Di Tommaso,929746,Lazio,Mediocentro,Audace Cerignola,225000.0
+Arijon Ibrahimovic,744728,Lazio,Mediocentro ofensivo,1.FC Heidenheim 1846,4000000.0
+André Anderson,601577,Lazio,Mediocentro ofensivo,Pouso Alegre FC,150000.0
+Mattia Zaccagni,283735,Lazio,Extremo izquierdo,SS Lazio,20000000.0
+Gustav Isaksen,462823,Lazio,Extremo derecho,SS Lazio,20000000.0
+Loum Tchaouna,607226,Lazio,Extremo derecho,Burnley FC,10000000.0
+Tijjani Noslin,457736,Lazio,Extremo derecho,SS Lazio,7500000.0
+Pedro,65278,Lazio,Extremo derecho,SS Lazio,1000000.0
+Taty Castellanos,522784,Lazio,Delantero centro,West Ham United,25000000.0
+Boulaye Dia,626913,Lazio,Delantero centro,SS Lazio,15000000.0
+Federico Serra,976207,Lazio,Delantero centro,Lazio Roma Primavera,450000.0
+Mahamadou Baldé,1054209,Lazio,Delantero centro,CD Tenerife,325000.0
+Marco Carnesecchi,459763,Atalanta,Portero,Atalanta de Bérgamo,25000000.0
+Juan Musso,242359,Atalanta,Portero,Atlético de Madrid,3500000.0
+Rui Patrício,45026,Atalanta,Portero,Retirado,800000.0
+Paolo Vismara,650256,Atalanta,Portero,Atalanta Sub-23,700000.0
+Matevz Dajcar,704079,Atalanta,Portero,NK Olimpija Ljubljana,100000.0
+Francesco Rossi,126634,Atalanta,Portero,Atalanta de Bérgamo,100000.0
+Giorgio Scalvini,571604,Atalanta,Defensa central,Atalanta de Bérgamo,35000000.0
+Isak Hien,503075,Atalanta,Defensa central,Atalanta de Bérgamo,30000000.0
+Odilon Kossounou,644771,Atalanta,Defensa central,Atalanta de Bérgamo,25000000.0
+Stefan Posch,223974,Atalanta,Defensa central,1.FSV Mainz 05,8000000.0
+Sead Kolasinac,94005,Atalanta,Defensa central,Atalanta de Bérgamo,7000000.0
+Ben Godfrey,343475,Atalanta,Defensa central,Brøndby IF,6000000.0
+Berat Djimsiti,165513,Atalanta,Defensa central,Atalanta de Bérgamo,6000000.0
+Rafael Tolói,72441,Atalanta,Defensa central,São Paulo FC,1400000.0
+Relja Obric,940553,Atalanta,Defensa central,Atalanta Sub-23,800000.0
+Tommaso Del Lungo,820620,Atalanta,Defensa central,Virtus Entella,500000.0
+Pietro Comi,936753,Atalanta,Defensa central,Atalanta Sub-23,250000.0
+Pietro Tornaghi,936750,Atalanta,Defensa central,CPR Ospitaletto,200000.0
+Matteo Ruggeri,616631,Atalanta,Lateral izquierdo,Atlético de Madrid,16000000.0
+Marco Palestra,895937,Atalanta,Lateral derecho,Cagliari,3500000.0
+Ibrahim Sulemana,982267,Atalanta,Pivote,Cagliari,7000000.0
+Marten de Roon,133179,Atalanta,Pivote,Atalanta de Bérgamo,5000000.0
+Éderson,607854,Atalanta,Mediocentro,Atalanta de Bérgamo,50000000.0
+Mario Pašalić,205938,Atalanta,Mediocentro,Atalanta de Bérgamo,10000000.0
+Marco Brescianini,459128,Atalanta,Mediocentro,Fiorentina,8000000.0
+Lorenzo Riccio,954265,Atalanta,Mediocentro,Atalanta Sub-23,950000.0
+Alberto Manzoni,936755,Atalanta,Mediocentro,Atalanta Sub-23,900000.0
+Federico Steffanoni,1178213,Atalanta,Mediocentro,Atalanta Sub-23,
+Raoul Bellanova,357992,Atalanta,Interior derecho,Atalanta de Bérgamo,24000000.0
+Davide Zappacosta,173859,Atalanta,Interior derecho,Atalanta de Bérgamo,5000000.0
+Juan Cuadrado,91970,Atalanta,Interior derecho,Pisa Sporting Club,1000000.0
+Javison Idele,1170813,Atalanta,Interior derecho,Atalanta Sub-23,400000.0
+Mitchel Bakker,361065,Atalanta,Interior izquierdo,Atalanta de Bérgamo,7000000.0
+Lorenzo Bernasconi,708635,Atalanta,Interior izquierdo,Atalanta de Bérgamo,800000.0
+Charles De Ketelaere,435772,Atalanta,Mediocentro ofensivo,Atalanta de Bérgamo,35000000.0
+Lazar Samardžić,528833,Atalanta,Mediocentro ofensivo,Atalanta de Bérgamo,17000000.0
+Daniel Maldini,539134,Atalanta,Mediocentro ofensivo,SS Lazio,10000000.0
+Federico Cassa,1048147,Atalanta,Mediocentro ofensivo,Atalanta Sub-23,800000.0
+Ademola Lookman,406040,Atalanta,Extremo izquierdo,Atlético de Madrid,60000000.0
+Nicolò Zaniolo,392085,Atalanta,Mediapunta,Udinese,12000000.0
+Dominic Vavassori,936739,Atalanta,Mediapunta,Atalanta Sub-23,1500000.0
+Mateo Retegui,554903,Atalanta,Delantero centro,Al-Qadsiah FC,45000000.0
+Gianluca Scamacca,315867,Atalanta,Delantero centro,Atalanta de Bérgamo,24000000.0
+Vanja Vlahović,698546,Atalanta,Delantero centro,Spezia,6000000.0
+David de Gea,59377,Fiorentina,Portero,Fiorentina,5000000.0
+Tommaso Martinelli,934159,Fiorentina,Portero,UC Sampdoria,1800000.0
+Pietro Terracciano,96254,Fiorentina,Portero,AC Milan,1000000.0
+Pietro Leonardelli,937631,Fiorentina,Portero,Fiorentina Primavera,125000.0
+Pietro Comuzzo,746712,Fiorentina,Defensa central,Fiorentina,25000000.0
+Luca Ranieri,346561,Fiorentina,Defensa central,Fiorentina,12000000.0
+Marin Pongracic,282144,Fiorentina,Defensa central,Fiorentina,10000000.0
+Lucas Martínez Quarta,373373,Fiorentina,Defensa central,CA River Plate,7000000.0
+Nicolás Valentini,860992,Fiorentina,Defensa central,Hellas Verona,6000000.0
+Pablo Marí,210178,Fiorentina,Defensa central,Al-Hilal SFC,3500000.0
+Matías Moreno,1144700,Fiorentina,Defensa central,Levante UD,3400000.0
+Eddy Kouadio,957822,Fiorentina,Defensa central,Fiorentina,275000.0
+Leonardo Baroncelli,932733,Fiorentina,Defensa central,AS Gubbio 1910,200000.0
+Lorenzo Romani,899542,Fiorentina,Defensa central,Calcio Lecco 1912,125000.0
+Niccolò Fortini,984964,Fiorentina,Lateral izquierdo,Fiorentina,8500000.0
+Robin Gosens,273132,Fiorentina,Lateral izquierdo,Fiorentina,8000000.0
+Fabiano Parisi,547985,Fiorentina,Lateral izquierdo,Fiorentina,6000000.0
+Cristiano Biraghi,124555,Fiorentina,Lateral izquierdo,Torino FC,1800000.0
+Dodô,401529,Fiorentina,Lateral derecho,Fiorentina,24000000.0
+Michael Kayode,823486,Fiorentina,Lateral derecho,Brentford FC,18000000.0
+Sofyan Amrabat,287579,Fiorentina,Pivote,Real Betis Balompié,17000000.0
+Rolando Mandragora,308279,Fiorentina,Pivote,Fiorentina,12000000.0
+Yacine Adli,395236,Fiorentina,Pivote,Al-Shabab FC,11000000.0
+Danilo Cataldi,199733,Fiorentina,Pivote,SS Lazio,3500000.0
+Nicolò Fagioli,432090,Fiorentina,Mediocentro,Fiorentina,18000000.0
+Amir Richardson,893675,Fiorentina,Mediocentro,FC Copenhague,8500000.0
+Michael Folorunsho,377042,Fiorentina,Mediocentro,Cagliari,6000000.0
+Alessandro Bianco,602124,Fiorentina,Mediocentro,PAOK de Salónica FC,5000000.0
+Edoardo Bove,562049,Fiorentina,Mediocentro,Watford FC,5000000.0
+Cher Ndour,651005,Fiorentina,Mediocentro,Fiorentina,5000000.0
+Gino Infantino,831162,Fiorentina,Mediocentro,AA Argentinos Juniors,2000000.0
+Jonas Harder,932740,Fiorentina,Mediocentro,Calcio Padova,900000.0
+Andrea Colpani,392959,Fiorentina,Mediocentro ofensivo,AC Monza,9500000.0
+Antonín Barák,272261,Fiorentina,Mediocentro ofensivo,UC Sampdoria,2500000.0
+Tommaso Rubino,866247,Fiorentina,Mediocentro ofensivo,Carrarese Calcio 1908,1200000.0
+Riccardo Sottil,386455,Fiorentina,Extremo izquierdo,US Lecce,5000000.0
+Josip Brekalo,293169,Fiorentina,Extremo izquierdo,Hertha Berlín,3300000.0
+Maat Daniel Caprini,996453,Fiorentina,Extremo izquierdo,Mantova 1911,2000000.0
+Jonathan Ikoné,324690,Fiorentina,Extremo derecho,Paris FC,7000000.0
+Albert Gudmundsson,305947,Fiorentina,Mediapunta,Fiorentina,18000000.0
+Nicolò Zaniolo,392085,Fiorentina,Mediapunta,Udinese,12000000.0
+Moise Kean,364135,Fiorentina,Delantero centro,Fiorentina,50000000.0
+Lucas Beltrán,628366,Fiorentina,Delantero centro,Valencia CF,18000000.0
+Christian Kouamé,337725,Fiorentina,Delantero centro,Aris de Salónica,4000000.0
+Vanja Milinković-Savić,257474,Torino,Portero,SSC Nápoles,16000000.0
+Mihai Popa,623412,Torino,Portero,CFR Cluj,650000.0
+Alberto Paleari,163048,Torino,Portero,Torino FC,500000.0
+Francesco Plaia,948047,Torino,Portero,Al-Waab SC,200000.0
+Antonio Donnarumma,88685,Torino,Portero,US Salernitana 1919,200000.0
+Saúl Coco,588426,Torino,Defensa central,Torino FC,10000000.0
+Perr Schuurs,418543,Torino,Defensa central,Sin equipo,5000000.0
+Guillermo Maripán,249730,Torino,Defensa central,Torino FC,4000000.0
+Alessandro Dellavalle,704825,Torino,Defensa central,Modena FC,3000000.0
+Saba Sazonov,655456,Torino,Defensa central,Torino FC,2000000.0
+Adam Masina,286949,Torino,Defensa central,Sin equipo,1500000.0
+Senan Mullen,983810,Torino,Defensa central,Bohemian Football Club,175000.0
+Borna Sosa,293194,Torino,Lateral izquierdo,Crystal Palace,4500000.0
+Cristiano Biraghi,124555,Torino,Lateral izquierdo,Torino FC,1800000.0
+Sebastian Walukiewicz,345458,Torino,Lateral derecho,US Sassuolo,4500000.0
+Mërgim Vojvoda,336125,Torino,Lateral derecho,Como 1907,3000000.0
+Marcus Pedersen,583404,Torino,Lateral derecho,Torino FC,3000000.0
+Ali Dembélé,1004344,Torino,Lateral derecho,Mantova 1911,900000.0
+Brian Bayeye,715470,Torino,Lateral derecho,FC Villefranche-Beaujolais,300000.0
+Côme Bianay Balcot,1059298,Torino,Lateral derecho,Mantova 1911,175000.0
+Samuele Ricci,467992,Torino,Pivote,AC Milan,30000000.0
+Adrien Tamèze,157507,Torino,Pivote,Torino FC,2000000.0
+Ivan Ilić,470794,Torino,Mediocentro,Torino FC,16000000.0
+Cesare Casadei,622380,Torino,Mediocentro,Torino FC,15000000.0
+Gvidas Gineitis,798929,Torino,Mediocentro,Torino FC,6000000.0
+Karol Linetty,225873,Torino,Mediocentro,Kocaelispor,1800000.0
+Emirhan İlkhan,743091,Torino,Mediocentro,Torino FC,1700000.0
+Aaron Ciammaglichella,724108,Torino,Mediocentro,SS Juve Stabia,700000.0
+Marco Dalla Vecchia,879868,Torino,Mediocentro,Virtus Entella,250000.0
+Raoul Bellanova,357992,Torino,Interior derecho,Atalanta de Bérgamo,24000000.0
+Valentino Lazaro,186368,Torino,Interior derecho,Torino FC,4500000.0
+Edoardo Zaia,985849,Torino,Interior derecho,Torino Primavera,100000.0
+Demyan Yesin,1138724,Torino,Interior derecho,FC Calvi Noale,
+Eljif Elmas,400489,Torino,Mediocentro ofensivo,SSC Nápoles,14000000.0
+Nikola Vlašić,293200,Torino,Mediocentro ofensivo,Torino FC,8000000.0
+Sergiu Perciun,980632,Torino,Mediocentro ofensivo,Torino FC,1500000.0
+Krisztofer Horváth,543736,Torino,Mediocentro ofensivo,Újpest FC,1000000.0
+Alieu Njie,934527,Torino,Extremo izquierdo,Torino FC,2500000.0
+Yann Karamoh,324804,Torino,Extremo izquierdo,FC Oporto,1800000.0
+Alessio Cacciamani,1188619,Torino,Extremo izquierdo,SS Juve Stabia,500000.0
+Zanos Savva,928900,Torino,Extremo derecho,Torino FC,900000.0
+Ché Adams,346779,Torino,Delantero centro,Torino FC,15000000.0
+Duván Zapata,73794,Torino,Delantero centro,Torino FC,3500000.0
+Antonio Sanabria,234523,Torino,Delantero centro,US Cremonese,2800000.0
+Pietro Pellegri,364133,Torino,Delantero centro,Empoli FC,2000000.0
+Amine Salama,980576,Torino,Delantero centro,NAC Breda,1500000.0
+Tommaso Gabellini,1040080,Torino,Delantero centro,Torino Primavera,800000.0
+Alessio Raballo,967826,Torino,Delantero centro,Empoli Primavera,25000.0
+Lukasz Skorupski,80894,Bologna,Portero,Bolonia,2500000.0
+Federico Ravaglia,390304,Bologna,Portero,Bolonia,1500000.0
+Nicola Bagnolini,818892,Bologna,Portero,AS Gubbio 1910,200000.0
+Massimo Pessina,992569,Bologna,Portero,Bolonia,
+Sam Beukema,433984,Bologna,Defensa central,SSC Nápoles,28000000.0
+Jhon Lucumí,413565,Bologna,Defensa central,Bolonia,22000000.0
+Stefan Posch,223974,Bologna,Defensa central,1.FSV Mainz 05,8000000.0
+Nicolò Casale,389837,Bologna,Defensa central,Bolonia,6000000.0
+Martin Erlić,357003,Bologna,Defensa central,FC Midtjylland,4000000.0
+Mihajlo Ilić,845566,Bologna,Defensa central,RSC Anderlecht,3500000.0
+Juan Miranda,341227,Bologna,Lateral izquierdo,Bolonia,15000000.0
+Tommaso Corazza,818880,Bologna,Lateral izquierdo,Cesena FC,1500000.0
+Charalampos Lykogiannis,136514,Bologna,Lateral izquierdo,Bolonia,1500000.0
+Emil Holm,496745,Bologna,Lateral derecho,Juventus de Turín,8000000.0
+Davide Calabria,262523,Bologna,Lateral derecho,Panathinaikos,4500000.0
+Lorenzo De Silvestri,33571,Bologna,Lateral derecho,Bolonia,800000.0
+Nikola Moro,316934,Bologna,Pivote,Bolonia,4500000.0
+Oussama El Azzouzi,531065,Bologna,Pivote,AJ Auxerre,1400000.0
+Andri Fannar Baldursson,464446,Bologna,Pivote,Kasimpasa,600000.0
+Lewis Ferguson,428563,Bologna,Mediocentro,Bolonia,28000000.0
+Tommaso Pobega,392538,Bologna,Mediocentro,Bolonia,9000000.0
+Michel Aebischer,237658,Bologna,Mediocentro,Pisa Sporting Club,7500000.0
+Remo Freuler,148252,Bologna,Mediocentro,Bolonia,5000000.0
+Naïm Byar,967148,Bologna,Mediocentro,Wydad Casablanca,500000.0
+Samuel Iling-Junior,581672,Bologna,Interior izquierdo,Pisa Sporting Club,10000000.0
+Jens Odgaard,345590,Bologna,Mediocentro ofensivo,Bolonia,12000000.0
+Giovanni Fabbian,633668,Bologna,Mediocentro ofensivo,Fiorentina,12000000.0
+Kacper Urbański,699442,Bologna,Mediocentro ofensivo,Legia de Varsovia,6000000.0
+Benja Domínguez,961022,Bologna,Extremo izquierdo,Bolonia,15000000.0
+Nicolò Cambiaghi,459151,Bologna,Extremo izquierdo,Bolonia,8500000.0
+Jesper Karlsson,367992,Bologna,Extremo izquierdo,FC Utrecht,4000000.0
+Estanis Pedrola,913539,Bologna,Extremo izquierdo,UD Las Palmas,1800000.0
+Tommaso Ravaglioli,997909,Bologna,Extremo izquierdo,Bolonia Primavera,650000.0
+Flavio Ferrari,1055075,Bologna,Extremo izquierdo,Bolonia Primavera,200000.0
+Dan Ndoye,365108,Bologna,Extremo derecho,Nottingham Forest,35000000.0
+Riccardo Orsolini,368482,Bologna,Extremo derecho,Bolonia,25000000.0
+Santiago Castro,849520,Bologna,Delantero centro,Bolonia,35000000.0
+Thijs Dallinga,538964,Bologna,Delantero centro,Bolonia,12000000.0
+Gerónimo Rulli,229604,Marseille,Portero,Olympique de Marsella,8000000.0
+Jeffrey de Lange,315253,Marseille,Portero,Olympique de Marsella,2000000.0
+Rubén Blanco,199321,Marseille,Portero,Girona FC,1000000.0
+Jelle Van Neck,727086,Marseille,Portero,Olympique de Marsella B,50000.0
+Leonardo Balerdi,575998,Marseille,Defensa central,Olympique de Marsella,20000000.0
+Lilian Brassier,485960,Marseille,Defensa central,Stade Rennais FC,10000000.0
+Luiz Felipe,457931,Marseille,Defensa central,Rayo Vallecano,5000000.0
+Derek Cornelius,328609,Marseille,Defensa central,Rangers FC,5000000.0
+Bamo Meïté,807165,Marseille,Defensa central,FC Lorient,4000000.0
+Chancel Mbemba,203348,Marseille,Defensa central,LOSC Lille,2000000.0
+Roggerio Nyakossi,805484,Marseille,Defensa central,Oud-Heverlee Leuven,500000.0
+Rony Mimb Baheng,1203035,Marseille,Defensa central,SC Aubagne Air Bel,
+Quentin Merlin,557613,Marseille,Lateral izquierdo,Stade Rennais FC,15000000.0
+Ulisses Garcia,192616,Marseille,Lateral izquierdo,US Sassuolo,5000000.0
+Alexi Koum,955449,Marseille,Lateral izquierdo,Valenciennes FC,100000.0
+Amar Dedić,519184,Marseille,Lateral derecho,SL Benfica,12000000.0
+Amir Murillo,354482,Marseille,Lateral derecho,Besiktas JK,10000000.0
+Pol Lirola,298975,Marseille,Lateral derecho,Hellas Verona,4000000.0
+Pierre-Emile Højbjerg,167799,Marseille,Pivote,Olympique de Marsella,20000000.0
+Ismaël Bennacer,351816,Marseille,Pivote,GNK Dinamo Zagreb,15000000.0
+Geoffrey Kondogbia,127189,Marseille,Pivote,Olympique de Marsella,7000000.0
+Adrien Rabiot,182913,Marseille,Mediocentro,AC Milan,25000000.0
+Ismaël Koné,921655,Marseille,Mediocentro,US Sassuolo,9000000.0
+Valentin Rongier,332889,Marseille,Mediocentro,Stade Rennais FC,9000000.0
+Bilal Nadir,659520,Marseille,Mediocentro,Olympique de Marsella,5000000.0
+Gaël Lafont,955358,Marseille,Mediocentro,Genoa Primavera,
+Luis Henrique,691316,Marseille,Interior derecho,Inter de Milán,25000000.0
+Valentín Carboni,787618,Marseille,Mediocentro ofensivo,Racing Club,12000000.0
+Enzo Sternal,1075589,Marseille,Mediocentro ofensivo,RSCA Futures,1500000.0
+Darryl Bakola,1170286,Marseille,Mediocentro ofensivo,US Sassuolo,200000.0
+Jonathan Rowe,672381,Marseille,Extremo izquierdo,Bolonia,12000000.0
+Amine Harit,372711,Marseille,Extremo izquierdo,Basaksehir FK,8000000.0
+Salim Ben Seghir,708681,Marseille,Extremo izquierdo,Neuchâtel Xamax FCS,400000.0
+Mason Greenwood,532826,Marseille,Extremo derecho,Olympique de Marsella,40000000.0
+Keyliane Abdallah,1183719,Marseille,Extremo derecho,Gimnàstic de Tarragona,100000.0
+Amine Gouiri,418659,Marseille,Delantero centro,Olympique de Marsella,30000000.0
+Elye Wahi,659542,Marseille,Delantero centro,OGC Niza,22000000.0
+Neal Maupay,217115,Marseille,Delantero centro,Sevilla FC,8000000.0
+Faris Moumbagna,599663,Marseille,Delantero centro,US Cremonese,5000000.0
+Robinio Vaz,1131161,Marseille,Delantero centro,AS Roma,150000.0
+Lucas Perri,352041,Lyon,Portero,Leeds United,10000000.0
+Anthony Lopes,60561,Lyon,Portero,FC Nantes,1200000.0
+Rémy Descamps,282028,Lyon,Portero,Olympique de Lyon,1200000.0
+Justin Bengui,802986,Lyon,Portero,RWDM Brussels,400000.0
+Lassine Diarra,1071430,Lyon,Portero,Olympique Lyon B,50000.0
+Matthias da Silva,1216906,Lyon,Portero,Olympique Lyon B,
+Moussa Niakhaté,291200,Lyon,Defensa central,Olympique de Lyon,15000000.0
+Duje Caleta-Car,238266,Lyon,Defensa central,Real Sociedad,7000000.0
+Adryelson,373433,Lyon,Defensa central,Al-Wasl SC,3500000.0
+Clinton Mata,187718,Lyon,Defensa central,Olympique de Lyon,3500000.0
+Warmed Omari,711996,Lyon,Defensa central,Hamburgo SV,3000000.0
+Abner,646402,Lyon,Lateral izquierdo,Olympique de Lyon,7000000.0
+Nicolás Tagliafico,131225,Lyon,Lateral izquierdo,Olympique de Lyon,6000000.0
+Ainsley Maitland-Niles,285845,Lyon,Lateral derecho,Olympique de Lyon,12000000.0
+Saël Kumbedi,951579,Lyon,Lateral derecho,VfL Wolfsburgo,7000000.0
+Téo Barišić,979773,Lyon,Lateral derecho,HNK Rijeka,
+Orel Mangala,289592,Lyon,Pivote,Olympique de Lyon,18000000.0
+Tanner Tessmann,670096,Lyon,Pivote,Olympique de Lyon,6000000.0
+Nemanja Matić,74683,Lyon,Pivote,US Sassuolo,2000000.0
+Paul Akouokou,429901,Lyon,Pivote,Real Zaragoza,800000.0
+Mathys de Carvalho,1004486,Lyon,Pivote,Olympique de Lyon,
+Maxence Caqueret,395237,Lyon,Mediocentro,Como 1907,16000000.0
+Corentin Tolisso,190393,Lyon,Mediocentro,Olympique de Lyon,12000000.0
+Jordan Veretout,164771,Lyon,Mediocentro,Al-Arabi SC,4000000.0
+Mahamadou Diawara,1053147,Lyon,Mediocentro,Royal Amberes FC,2000000.0
+Rayan Cherki,607223,Lyon,Mediocentro ofensivo,Manchester City,45000000.0
+Malick Fofana,743386,Lyon,Extremo izquierdo,Olympique de Lyon,30000000.0
+Thiago Almada,576028,Lyon,Extremo izquierdo,Atlético de Madrid,25000000.0
+Saïd Benrahma,290532,Lyon,Extremo izquierdo,NEOM SC,10000000.0
+Wilfried Zaha,145988,Lyon,Extremo izquierdo,Charlotte FC,5000000.0
+Ernest Nuamah,955070,Lyon,Extremo derecho,Olympique de Lyon,15000000.0
+Georges Mikautadze,729814,Lyon,Delantero centro,Villarreal CF,22000000.0
+Gift Orban,1018259,Lyon,Delantero centro,Hellas Verona,10000000.0
+Alexandre Lacazette,93720,Lyon,Delantero centro,NEOM SC,6000000.0
+Mama Baldé,325223,Lyon,Delantero centro,Stade Brestois 29,4000000.0
+Alejandro Gomes Rodríguez,1108478,Lyon,Delantero centro,FC Annecy,100000.0
+Enzo Molebe,1106860,Lyon,Delantero centro,Montpellier HSC,100000.0
+Radoslaw Majecki,346546,Monaco,Portero,Stade Brestois 29,6000000.0
+Philipp Köhn,251322,Monaco,Portero,AS Mónaco,5000000.0
+Jules Stawiecki,1075582,Monaco,Portero,AS Monaco U19,200000.0
+Yann Lienard,745341,Monaco,Portero,AS Mónaco,100000.0
+Wilfried Singo,648779,Monaco,Defensa central,Galatasaray,25000000.0
+Thilo Kehrer,228948,Monaco,Defensa central,AS Mónaco,20000000.0
+Christian Mawissa,1005240,Monaco,Defensa central,AS Mónaco,15000000.0
+Mohammed Salisu,563963,Monaco,Defensa central,AS Mónaco,12000000.0
+Guillermo Maripán,249730,Monaco,Defensa central,Torino FC,4000000.0
+Bradel Kiwa,1078416,Monaco,Defensa central,AS Mónaco U21,
+Caio Henrique,420064,Monaco,Lateral izquierdo,AS Mónaco,15000000.0
+Ismail Jakobs,375137,Monaco,Lateral izquierdo,Galatasaray,7000000.0
+Kassoum Ouattara,947360,Monaco,Lateral izquierdo,AS Mónaco,7000000.0
+Vanderson,789082,Monaco,Lateral derecho,AS Mónaco,20000000.0
+Jordan Teze,364245,Monaco,Lateral derecho,AS Mónaco,9000000.0
+Denis Zakaria,334526,Monaco,Pivote,AS Mónaco,30000000.0
+Soungoutou Magassa,745181,Monaco,Pivote,West Ham United,12000000.0
+Moatasem Al-Musrati,377641,Monaco,Pivote,Hellas Verona,8000000.0
+Aladji Bamba,975347,Monaco,Pivote,AS Mónaco,
+Samuel Nibombe,981700,Monaco,Pivote,AS Mónaco U21,
+Lamine Camara,918969,Monaco,Mediocentro,AS Mónaco,22000000.0
+Eliot Matazo,535834,Monaco,Mediocentro,Hull City,2000000.0
+Edan Diop,745178,Monaco,Mediocentro,Círculo de Brujas,600000.0
+Mamadou Coulibaly,745173,Monaco,Mediocentro,AS Mónaco,200000.0
+Mayssam Benama,810894,Monaco,Mediocentro,Valencia Mestalla,150000.0
+Krépin Diatta,490426,Monaco,Interior derecho,AS Mónaco,7000000.0
+Aleksandr Golovin,263918,Monaco,Mediocentro ofensivo,AS Mónaco,20000000.0
+Saïmon Bouabré,955356,Monaco,Mediocentro ofensivo,Al-Hilal SFC,300000.0
+Eliesse Ben Seghir,810895,Monaco,Extremo izquierdo,Bayer 04 Leverkusen,28000000.0
+Takumi Minamino,165793,Monaco,Extremo izquierdo,AS Mónaco,15000000.0
+Lucas Michal,810909,Monaco,Extremo izquierdo,FC Metz,500000.0
+Maghnes Akliouche,745200,Monaco,Extremo derecho,AS Mónaco,45000000.0
+Mika Biereth,565821,Monaco,Delantero centro,AS Mónaco,30000000.0
+Folarin Balogun,503770,Monaco,Delantero centro,AS Mónaco,18000000.0
+George Ilenikhena,1004834,Monaco,Delantero centro,Al-Ittihad Club,15000000.0
+Breel Embolo,237662,Monaco,Delantero centro,Stade Rennais FC,12000000.0
+Joan Tincres,975348,Monaco,Delantero centro,AS Mónaco U21,100000.0
+Lucas Chevalier,463600,Lille,Portero,París Saint-Germain FC,30000000.0
+Lisandru Olmeta,810789,Lille,Portero,SC Bastia,150000.0
+Vito Mannone,33781,Lille,Portero,Retirado,150000.0
+Marc-Aurèle Caillard,205465,Lille,Portero,LOSC Lille,100000.0
+Bafodé Diakité,463605,Lille,Defensa central,AFC Bournemouth,28000000.0
+Alexsandro,648020,Lille,Defensa central,LOSC Lille,20000000.0
+Samuel Umtiti,126540,Lille,Defensa central,Retirado,1500000.0
+Aïssa Mandi,80293,Lille,Defensa central,LOSC Lille,1200000.0
+Rafael Fernandes,744074,Lille,Defensa central,LOSC Lille,1000000.0
+Ousmane Touré,990732,Lille,Defensa central,LOSC Lille,500000.0
+Isaac Cossier,1160753,Lille,Defensa central,Le Mans FC,
+Gabriel Gudmundsson,362108,Lille,Lateral izquierdo,Leeds United,7000000.0
+Ismaily,124028,Lille,Lateral izquierdo,Sin equipo,1200000.0
+Tiago Santos,816580,Lille,Lateral derecho,LOSC Lille,15000000.0
+Thomas Meunier,100986,Lille,Lateral derecho,LOSC Lille,2000000.0
+Akim Zedadka,327863,Lille,Lateral derecho,Sabah FK,700000.0
+Morgan Costarelli,1119911,Lille,Lateral derecho,LOSC Lille B,
+Ngal'ayel Mukau,1016015,Lille,Pivote,LOSC Lille,15000000.0
+Nabil Bentaleb,245537,Lille,Pivote,LOSC Lille,6000000.0
+Benjamin André,84301,Lille,Pivote,LOSC Lille,5000000.0
+Ugo Raghouber,707230,Lille,Pivote,Levante UD,4000000.0
+Lilian Baret,1083054,Lille,Pivote,LOSC Lille B,
+Ayyoub Bouaddi,1097139,Lille,Mediocentro,LOSC Lille,28000000.0
+André Gomes,221025,Lille,Mediocentro,Columbus Crew,6000000.0
+Mitchel Bakker,361065,Lille,Interior izquierdo,Atalanta de Bérgamo,7000000.0
+Vincent Burlet,920939,Lille,Interior izquierdo,US Boulogne,600000.0
+Angel Gomes,392770,Lille,Mediocentro ofensivo,Wolverhampton Wanderers,20000000.0
+Hákon Arnar Haraldsson,652275,Lille,Mediocentro ofensivo,LOSC Lille,18000000.0
+Rémy Cabella,113707,Lille,Mediocentro ofensivo,FC Nantes,2500000.0
+Matías Fernández-Pardo,724129,Lille,Extremo izquierdo,LOSC Lille,15000000.0
+Osame Sahraoui,580657,Lille,Extremo izquierdo,LOSC Lille,12000000.0
+Younes Lachaab,1035659,Lille,Extremo izquierdo,LOSC Lille B,50000.0
+Soriba Diaoune,1184007,Lille,Extremo izquierdo,LOSC Lille,
+Edon Zhegrova,496857,Lille,Extremo derecho,Juventus de Turín,25000000.0
+Ethan Mbappé,903666,Lille,Extremo derecho,LOSC Lille,5000000.0
+Aaron Malouda,974996,Lille,Extremo derecho,Sabah FK,150000.0
+Jonathan David,533738,Lille,Delantero centro,Juventus de Turín,45000000.0
+Chuba Akpom,197642,Lille,Delantero centro,Ipswich Town,7000000.0
+Andrej Ilic,583699,Lille,Delantero centro,1.FC Unión Berlín,4000000.0
+Mohamed Bayo,594991,Lille,Delantero centro,Gaziantep FK,2800000.0
+Jonas Urbig,607720,Rennes,Portero,Bayern Múnich,12000000.0
+Marvin Schwäbe,160929,Rennes,Portero,FC Colonia,2000000.0
+Anthony Racioppi,395671,Rennes,Portero,FC Sion,1000000.0
+Philipp Pentke,8246,Rennes,Portero,Sin equipo,200000.0
+Jonas Nickisch,665971,Rennes,Portero,1.FC Saarbrücken,175000.0
+Matthias Köbbing,227089,Rennes,Portero,FC Colonia,100000.0
+Timo Hübers,236981,Rennes,Defensa central,FC Colonia,3000000.0
+Julian Pauli,744558,Rennes,Defensa central,SG Dynamo Dresden,2500000.0
+Joël Schmied,322517,Rennes,Defensa central,FC Colonia,2000000.0
+Dominique Heintz,110036,Rennes,Defensa central,FC Colonia,800000.0
+Elias Bakatukanda,795762,Rennes,Defensa central,FC Blau-Weiss Linz,400000.0
+Luca Kilian,384553,Rennes,Defensa central,FC Colonia,400000.0
+Neo Telle,917792,Rennes,Defensa central,SC Fortuna Köln,300000.0
+Meiko Sponsel,598576,Rennes,Defensa central,FC Viktoria Köln,150000.0
+Mikail Özkan,696012,Rennes,Defensa central,1.FC Colonia II,50000.0
+Max Finkgräfe,810649,Rennes,Lateral izquierdo,RB Leipzig,4000000.0
+Leart Paçarada,107219,Rennes,Lateral izquierdo,1.FC Heidenheim 1846,1500000.0
+Jusuf Gazibegovic,393745,Rennes,Lateral derecho,SK Sturm Graz,4000000.0
+Eric Martel,597000,Rennes,Pivote,FC Colonia,6000000.0
+Dejan Ljubicic,287188,Rennes,Pivote,FC Schalke 04,4000000.0
+Mathias Olesen,490581,Rennes,Pivote,Grazer AK 1902,1000000.0
+Jacob Christensen,515017,Rennes,Pivote,Molde FK,800000.0
+Fayssal Harchaoui,890532,Rennes,Pivote,FC Colonia,
+Denis Huseinbasic,678479,Rennes,Mediocentro,FC Colonia,2800000.0
+Meiko Wäschenbach,696019,Rennes,Mediocentro,Karlsruher SC,150000.0
+Emin Kujovic,795724,Rennes,Mediocentro,Wolfsberger AC,125000.0
+Rasmus Carstensen,542697,Rennes,Interior derecho,Aarhus GF,2000000.0
+Florian Kainz,106270,Rennes,Mediocentro ofensivo,FC Colonia,1700000.0
+Linton Maina,335103,Rennes,Extremo izquierdo,FC Colonia,4000000.0
+Oliver Schmitt,343336,Rennes,Extremo izquierdo,SV Meppen,125000.0
+Jan Thielmann,472249,Rennes,Extremo derecho,FC Colonia,3000000.0
+Marvin Obuz,522084,Rennes,Extremo derecho,Rot-Weiss Essen,500000.0
+Damion Downs,820241,Rennes,Delantero centro,Hamburgo SV,6000000.0
+Tim Lemperle,553285,Rennes,Delantero centro,TSG 1899 Hoffenheim,5000000.0
+Luca Waldschmidt,196095,Rennes,Delantero centro,FC Colonia,2000000.0
+Imad Rondic,464154,Rennes,Delantero centro,Preußen Münster,1500000.0
+Steffen Tigges,296879,Rennes,Delantero centro,SC Paderborn 07,700000.0
+Sargis Adamyan,125614,Rennes,Delantero centro,1.FC Colonia II,400000.0
+Mark Uth,112935,Rennes,Delantero centro,Retirado,350000.0
+Jaka Cuber Potocnik,940198,Rennes,Delantero centro,Rot-Weiss Essen,350000.0
+Florian Dietz,283871,Rennes,Delantero centro,SSV Jahn Regensburg,300000.0
+Marcin Bulka,465955,Nice,Portero,NEOM SC,20000000.0
+Maxime Dupé,127188,Nice,Portero,OGC Niza,900000.0
+Teddy Boulhendi,789419,Nice,Portero,Football Bourg-en-Bresse Péronnas 01,50000.0
+Bartosz Zelazowski,828889,Nice,Portero,OGC Niza,
+Youssouf Ndayishimiye,674612,Nice,Defensa central,OGC Niza,12000000.0
+Moïse Bombito,1089202,Nice,Defensa central,OGC Niza,10000000.0
+Mohamed Abdelmonem,566025,Nice,Defensa central,OGC Niza,4000000.0
+Antoine Mendy,891998,Nice,Defensa central,OGC Niza,2500000.0
+Dante,16136,Nice,Defensa central,OGC Niza,500000.0
+Amidou Doumbouya,1075574,Nice,Defensa central,Al-Ahli SC,200000.0
+Laurenzo Monteiro,982858,Nice,Defensa central,OGC Nice Espoir,
+Melvin Bard,532775,Nice,Lateral izquierdo,OGC Niza,15000000.0
+Ali Abdi,211474,Nice,Lateral izquierdo,OGC Niza,3000000.0
+Yaël Nandjou,984699,Nice,Lateral izquierdo,Sin equipo,150000.0
+Iliesse Salhi,1180809,Nice,Lateral izquierdo,RCD Mallorca B,50000.0
+Mousslim Youssouf,1091902,Nice,Lateral izquierdo,OGC Nice Espoir,
+Jordan Lotomba,313094,Nice,Lateral derecho,Feyenoord,6500000.0
+Jonathan Clauss,175639,Nice,Lateral derecho,OGC Niza,5000000.0
+Pablo Rosario,370791,Nice,Pivote,FC Oporto,8000000.0
+Baptiste Santamaria,285323,Nice,Pivote,Valencia CF,7000000.0
+Everton,1191473,Nice,Pivote,OGC Niza,
+Hicham Boudaoui,560593,Nice,Mediocentro,OGC Niza,15000000.0
+Tanguy Ndombélé,450936,Nice,Mediocentro,OGC Niza,7000000.0
+Morgan Sanson,174094,Nice,Mediocentro,OGC Niza,5000000.0
+Daouda Traoré,986300,Nice,Mediocentro,SSC Bari,250000.0
+Issiaga Camara,1180835,Nice,Mediocentro,IF Brommapojkarna,200000.0
+Djibril Coulibaly,1208968,Nice,Mediocentro,OGC Niza,
+Tom Louchet,750904,Nice,Interior derecho,OGC Niza,2500000.0
+Rareș Ilie,812654,Nice,Mediocentro ofensivo,Empoli FC,1800000.0
+Jérémie Boga,216569,Nice,Extremo izquierdo,Juventus de Turín,10000000.0
+Sofiane Diop,569389,Nice,Extremo izquierdo,OGC Niza,10000000.0
+Evann Guessand,500689,Nice,Extremo derecho,Crystal Palace,25000000.0
+Mohamed-Ali Cho,670847,Nice,Extremo derecho,OGC Niza,15000000.0
+Badredine Bouanani,707242,Nice,Extremo derecho,VfB Stuttgart,7000000.0
+Billal Brahimi,543051,Nice,Extremo derecho,CF Estrela Amadora,1800000.0
+Terem Moffi,538874,Nice,Delantero centro,FC Oporto,15000000.0
+Youssoufa Moukoko,467720,Nice,Delantero centro,FC Copenhague,10000000.0
+Gaëtan Laborde,181378,Nice,Delantero centro,Al-Diraiyah FC,6000000.0
+Victor Orakpo,1231401,Nice,Delantero centro,AS Nancy-Lorraine,400000.0
+Farès Bousnina,955446,Nice,Delantero centro,Bolonia Primavera,150000.0
+Bernard Nguene,1314671,Nice,Delantero centro,Standard de Lieja,100000.0
+Brice Samba,191056,Lens,Portero,Stade Rennais FC,12000000.0
+Mathew Ryan,128969,Lens,Portero,Levante UD,2500000.0
+Hervé Koffi,415383,Lens,Portero,Angers SCO,1200000.0
+Denis Petric,28356,Lens,Portero,Retirado,100000.0
+Roman Karolewicz,1020190,Lens,Portero,Sin equipo,
+Adam Delplace,1177163,Lens,Portero,RC Lens Espoir ,
+Ilan Jourdren,1200424,Lens,Portero,RC Lens,
+Abdukodir Khusanov,763079,Lens,Defensa central,Manchester City,35000000.0
+Kevin Danso,263236,Lens,Defensa central,Tottenham Hotspur,25000000.0
+Facundo Medina,474800,Lens,Defensa central,Olympique de Marsella,25000000.0
+Juma Bah,1121298,Lens,Defensa central,OGC Niza,6000000.0
+Malang Sarr,344596,Lens,Defensa central,RC Lens,5000000.0
+Jonathan Gradit,126557,Lens,Defensa central,RC Lens,4000000.0
+Nidal Celik,819566,Lens,Defensa central,RC Lens,1800000.0
+Ismaëlo Ganiou,1020191,Lens,Defensa central,RC Lens,1000000.0
+Kyllian Antonio,1186789,Lens,Defensa central,RC Lens,300000.0
+Souleymane Sagnan,1160378,Lens,Defensa central,SM Caen,
+Jhoanner Chávez,713787,Lens,Lateral izquierdo,AC Sparta Praga,3500000.0
+Deiver Machado,332560,Lens,Lateral izquierdo,FC Nantes,3000000.0
+Massadio Haïdara,170929,Lens,Lateral izquierdo,Kocaelispor,1500000.0
+Oscar Lenne,1006412,Lens,Lateral izquierdo,RC Lens Espoir ,
+Przemyslaw Frankowski,239743,Lens,Lateral derecho,Stade Rennais FC,7000000.0
+Ruben Aguilar,203746,Lens,Lateral derecho,RC Lens,3500000.0
+Tom Pouilly,917817,Lens,Lateral derecho,Pau FC,800000.0
+Hamzat Ojediran,718312,Lens,Pivote,Colorado Rapids,1800000.0
+Nampalys Mendy,111051,Lens,Pivote,Watford FC,1800000.0
+Andy Diouf,711976,Lens,Mediocentro,Inter de Milán,15000000.0
+Neil El Aynaoui,901019,Lens,Mediocentro,AS Roma,15000000.0
+Adrien Thomasson,215977,Lens,Mediocentro,RC Lens,5000000.0
+David Da Costa,719442,Lens,Mediocentro ofensivo,Portland Timbers,6000000.0
+Angelo Fulgini,250013,Lens,Mediocentro ofensivo,Al-Taawoun FC,5000000.0
+Anass Zaroury,491296,Lens,Extremo izquierdo,Panathinaikos,8000000.0
+Kembo Diliwidi,1160813,Lens,Extremo izquierdo,Quevilly - Rouen Métropole,50000.0
+Jeremy Agbonifo,1057820,Lens,Extremo derecho,BK Häcken,5000000.0
+Hervé Boua Dié,1160086,Lens,Extremo derecho,Valenciennes FC B,
+Wesley Saïd,182916,Lens,Mediapunta,RC Lens,3000000.0
+M'Bala Nzola,354814,Lens,Delantero centro,US Sassuolo,6000000.0
+Martín Satriano,640109,Lens,Delantero centro,Getafe CF,5000000.0
+Goduine Koyalipou,525140,Lens,Delantero centro,Angers SCO,2500000.0
+Florian Sotoca,354726,Lens,Delantero centro,RC Lens,2000000.0
+Rémy Labeau Lascary,917778,Lens,Delantero centro,Stade Brestois 29,2000000.0
+Rayan Fofana,1160814,Lens,Delantero centro,RC Lens,50000.0
+Gabin Capuano,1179130,Lens,Delantero centro,US Boulogne,50000.0
