@@ -79,7 +79,7 @@ def format_value(value_eur: float) -> str:
 
 # ── UI ────────────────────────────────────────────────────────
 
-st.title("⚽ SoccerSolver — Market Value Simulator")
+st.title("⚽ Market Value Simulator")
 st.markdown("Busca un jugador, ajusta sus atributos y observa cómo cambia su valor de mercado.")
 
 # ── Sidebar ───────────────────────────────────────────────────
