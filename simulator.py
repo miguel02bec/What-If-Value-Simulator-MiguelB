@@ -229,7 +229,7 @@ with col2:
 
     fig_bar = go.Figure()
     fig_bar.add_trace(go.Bar(
-        x=["Valor Inicial, "Valor Actual"],
+        x=["Valor Inicial", "Valor Actual"],
         y=[base_value / 1e6, current_value / 1e6],
         marker_color=["#3b82f6", "#10b981" if delta >= 0 else "#ef4444"],
         text=[format_value(base_value), format_value(current_value)],
